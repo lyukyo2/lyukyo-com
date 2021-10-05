@@ -1,0 +1,4130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coupon Affiliates for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-27 16:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: woo-coupon-usage"
+
+#: inc/functions/functions-commission-message.php:81
+msgid " / Product"
+msgstr ""
+
+#: inc/admin/admin-options.php:2239
+msgid "\"Coupon Affiliate\" User Role"
+msgstr ""
+
+#: premium-files/dashboard/tab-monthly-summary.php:117
+msgid "% Change"
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:53
+#: inc/admin/admin-getting-started.php:75
+msgid ""
+"(1) Add the shortcode [couponaffiliates] to a frontend page (click the "
+"button below to generate automatically)."
+msgstr ""
+
+#: inc/admin/admin-options.php:3367
+msgid ""
+"(1) Firstly, customise all the settings for this plugin as required. Set "
+"your commission amounts in the \"commission\" tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:3368
+msgid "(2) Add the shortcode"
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:56
+#: inc/admin/admin-getting-started.php:79
+msgid ""
+"(2) As an admin, you will see a full list of the unique coupon page URLs to "
+"share with affiliates on the"
+msgstr ""
+
+#: inc/admin/admin-options.php:3369
+msgid ""
+"(3) This shortcode will also display the affiliate dashboard for the "
+"coupon(s) assigned to the logged in user, without them needing a unique link."
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:59
+#: inc/admin/admin-getting-started.php:83
+msgid ""
+"(3) You can assign/link users to coupons so they can access their coupons "
+"affiliate dashboard directly, without needing the unique link."
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:87
+msgid "(4) Customise the plugin on the"
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:62
+msgid ""
+"(4) Customise the settings on this page below, and view the 'How To Use' tab "
+"for more help on getting started."
+msgstr ""
+
+#: inc/admin/admin-options.php:1003
+msgid "(Admin) WooCommerce Orders \"Affiliate Info\" Sections"
+msgstr ""
+
+#: inc/admin/admin-translations.php:50
+msgid "(Click save, then the settings will appear below.)"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:323
+msgid "(Payouts) Admin - Payout Tracking"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:295
+msgid "(Payouts) Affiliate Commission Logs"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:309
+msgid "(Payouts) Delayed Commission"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:337
+msgid "(Payouts) Invoices"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:281
+msgid "(Payouts) Payout Requests"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:351
+msgid "(Payouts) PDF Statements"
+msgstr ""
+
+#: inc/admin/admin-options.php:690
+msgid "(The page that has the [couponaffiliates] shortcode on.)"
+msgstr ""
+
+#: inc/admin/admin-options.php:2083
+msgid ""
+"(This is saved as meta data \"wcusage_currency_conversion\" for the order.)"
+msgstr ""
+
+#: inc/admin/admin-options.php:2158
+msgid ""
+"(with the default settings for your affiliates) and enter the code below."
+msgstr ""
+
+#: inc/admin/admin-options.php:1406
+msgid "[Admin Email] New Affiliate Application"
+msgstr ""
+
+#: inc/admin/admin-options.php:1437
+msgid "[Admin Email] New Payout Request"
+msgstr ""
+
+#: inc/admin/admin-options.php:1469
+msgid "[User Email] Affiliate Application Accepted"
+msgstr ""
+
+#: inc/admin/admin-options.php:1499
+msgid "[User Email] Affiliate Application declined"
+msgstr ""
+
+#: inc/admin/admin-options.php:1336
+msgid "[User Email] Affiliate Application Submitted"
+msgstr ""
+
+#: inc/admin/admin-options.php:1370
+msgid "[User Email] New Affiliate Account Created"
+msgstr ""
+
+#: inc/admin/admin-options.php:1306
+msgid "[User Email] New Coupon Usage / Pending Commission Earned"
+msgstr ""
+
+#: inc/admin/admin-page.php:276
+msgid ""
+"A login form will be displayed on the affiliate dashboard for users to login "
+"to their account, and directly access their dashboard without needing to use "
+"the unique link. You can turn this off if preferred in the general settings. "
+"This is enabled by default."
+msgstr ""
+
+#: inc/admin/admin-options.php:2514
+msgid ""
+"A new \"creatives\" tab will be shown in the affiliate dashboard displaying "
+"these creatives, including a HTML code for them to copy and paste, to show "
+"the banner on their own site (with the referral link)."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:409
+msgid ""
+"A new totals row will be shown at the bottom of both order tables, to show "
+"the combined totals."
+msgstr ""
+
+#: inc/admin/admin-options.php:2886
+msgid ""
+"A shortlink will only be created once for the same URL. A shortlink can also "
+"only be created only if it is pointing to this website"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-settings.php:40
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:99
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:146
+msgid ""
+"A user has not yet been assigned to this coupon. (This message is only "
+"visible to admins.)"
+msgstr ""
+
+#: inc/admin/admin-page.php:389 inc/admin/admin-pro-details.php:395
+msgid ""
+"Ability to link a landing page to an affiliate coupon, which will then work "
+"the same as a referral URL."
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:111
+msgid "Accept"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:110
+msgid "Accept Application"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-admin.php:116
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:60
+msgid "Accepted"
+msgstr ""
+
+#: inc/admin/admin-options.php:2252
+msgid "Accepted Affiliate User Role"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:97
+msgid ""
+"Access to unlimited date range, export to excel, and date comparison "
+"features on the admin reports."
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:993
+msgid "Account Details"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:114
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:164
+msgid "Action"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:255
+msgid ""
+"Add a button to the referral URL tab, to allow affiliate users to "
+"automatically generate a QR code for their referral link."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:241
+msgid ""
+"Add a button to the referral URL tab, to allow affiliate users to generate a "
+"short URL for their referral link automatically."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:227
+msgid ""
+"Add social sharing buttons to the referral URL tab, so affiliates can "
+"instantly share their generated referral link."
+msgstr ""
+
+#: inc/admin/admin-translations.php:228
+#: inc/functions/functions-translations.php:328
+msgid "Additional Email Addresses: (Separate with Comma)"
+msgstr ""
+
+#: inc/admin/admin-options.php:1750
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:71
+msgid "Address Line 1"
+msgstr ""
+
+#: inc/admin/admin-options.php:1756
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:77
+msgid "Address Line 2"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:83
+msgid "Address Line 3"
+msgstr ""
+
+#: inc/admin/admin-options.php:1762
+msgid "Address Line 3 (City/State/ZIP)"
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:1138
+msgid "Admin Options"
+msgstr ""
+
+#: inc/admin/admin-page.php:369
+msgid "admin page"
+msgstr ""
+
+#: inc/admin/admin-page.php:109
+msgid "Admin Quicklinks"
+msgstr ""
+
+#: inc/admin/admin-options.php:473
+msgid "Admin Reports & Analytics"
+msgstr ""
+
+#: inc/admin/admin-options.php:992
+msgid "Administrator"
+msgstr ""
+
+#: inc/admin/admin-page.php:326 inc/admin/admin-pro-details.php:95
+msgid "Advanced Admin Reports"
+msgstr ""
+
+#: inc/admin/admin-options.php:1381
+msgid "Affiliate Account Login Details"
+msgstr ""
+
+#: inc/admin/admin-options.php:1480
+msgid "Affiliate Application Accepted!"
+msgstr ""
+
+#: inc/admin/admin-options.php:1510
+msgid "Affiliate Application Declined"
+msgstr ""
+
+#: inc/admin/admin-options.php:1347
+msgid "Affiliate Application Submitted"
+msgstr ""
+
+#: inc/admin/admin-options.php:2697
+msgid "Affiliate commission"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:107
+msgid "Affiliate Coupon"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:43
+msgid "Affiliate Coupons List"
+msgstr ""
+
+#: inc/admin/admin-options.php:703
+msgid "Affiliate Dashboard - Login Form"
+msgstr ""
+
+#: inc/admin/admin-options.php:815
+msgid "Affiliate Dashboard - Orders List"
+msgstr ""
+
+#: inc/admin/admin-options.php:1221
+msgid "Affiliate Dashboard - Privacy"
+msgstr ""
+
+#: inc/admin/admin-options.php:929
+msgid "Affiliate Dashboard - Settings Section"
+msgstr ""
+
+#: inc/admin/admin-options.php:724
+msgid "Affiliate Dashboard - User Access"
+msgstr ""
+
+#: inc/admin/admin-page.php:83
+msgid "Affiliate dashboard page"
+msgstr ""
+
+#: inc/admin/admin-options.php:669
+msgid "Affiliate Dashboard Page:"
+msgstr ""
+
+#: inc/admin/admin-page.php:128
+msgid "Affiliate Dashboard URLs"
+msgstr ""
+
+#: inc/admin/admin-orders-list.php:21
+msgid "Affiliate Info"
+msgstr ""
+
+#: inc/admin/admin-options.php:1189 inc/admin/admin-page.php:388
+#: inc/admin/admin-pro-details.php:393
+msgid "Affiliate Landing Pages"
+msgstr ""
+
+#: inc/admin/admin-page.php:275
+msgid "Affiliate Login Form"
+msgstr ""
+
+#: inc/admin/admin-options.php:2136 inc/admin/admin-pro-details.php:110
+msgid "Affiliate Registration"
+msgstr ""
+
+#: inc/admin/admin-page.php:88 inc/admin/admin-page.php:93
+msgid "Affiliate registration page"
+msgstr ""
+
+#: inc/admin/admin-options.php:2140
+msgid ""
+"Affiliate registration will allow your users to register an affiliate coupon "
+"for themselves."
+msgstr ""
+
+#: inc/admin/admin-page.php:136
+msgid "Affiliate Registrations"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:641
+#: inc/admin-reports/admin-reports.php:661 inc/admin/admin-orders-list.php:205
+msgid "Affiliate User"
+msgstr ""
+
+#: inc/admin/admin-page.php:369
+msgid ""
+"Affiliates can request payouts for coupons they are assigned to in the "
+"\"Payouts\" tab on the coupon affiliate dashboard page. You can track and "
+"manage payouts on the"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:47
+#: premium-files/pro-addons/registration/registration-admin.php:114
+msgid "All"
+msgstr ""
+
+#: premium-files/pro-addons/campaigns/functions-campaigns.php:144
+msgid "All Campaigns"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:435
+msgid "All Future Pro Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:1070 inc/admin/admin-options.php:1078
+#: inc/admin/admin-translations.php:83
+#: inc/functions/functions-translations.php:85
+msgid "All-time"
+msgstr ""
+
+#: inc/admin/admin-options.php:1652
+msgid ""
+"Allow admin accounts to view payouts tab (and request payouts) for all "
+"coupons."
+msgstr ""
+
+#: inc/admin/admin-options.php:2227
+msgid ""
+"Allow administrator users to fill out the registration form for new users."
+msgstr ""
+
+#: inc/admin/admin-options.php:719
+msgid "Allow affiliate user to apply their own coupon code at cart / checkout."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:283
+msgid ""
+"Allow affiliates to request payouts for their unpaid commission, if they "
+"meet a certain threshold."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:297
+msgid ""
+"Allow affiliates to track unpaid / pending / paid commission in their "
+"affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:339
+msgid ""
+"Allow affiliates to upload their invoice when requesting a payout for their "
+"unpaid commission."
+msgstr ""
+
+#: inc/admin/admin-options.php:2203
+msgid "Allow logged out users to register for an affiliate coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:1688
+msgid ""
+"Allow the affiliate to upload an invoice (PDF file) when requesting a payout."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:213
+msgid ""
+"Allow your affiliates to create referral \"campaigns\" and then create "
+"custom URLs to track clicks/conversions per campaign."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:559
+msgid "Always Enabled"
+msgstr ""
+
+#: inc/admin/admin-translations.php:196
+#: inc/functions/functions-translations.php:291
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:98
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:107
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:116
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:125
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:170
+msgid "Amount"
+msgstr ""
+
+#: inc/admin/admin-translations.php:55
+msgid ""
+"Any phrases you leave empty will use the normal internationalized "
+"translations."
+msgstr ""
+
+#: inc/admin/admin-options.php:2762
+msgid ""
+"Any users that click on a referral link will have the coupon code "
+"automatically applied to their checkout."
+msgstr ""
+
+#: premium-files/pro-addons/campaigns/functions-campaigns.php:191
+msgid "Are you sure you want to delete the"
+msgstr ""
+
+#: inc/admin/admin-options.php:1691
+msgid ""
+"As an admin, you can then easily download/view the invoice in the admin "
+"\"Payouts\" list, found under a new \"Files\" column, before completing the "
+"payout."
+msgstr ""
+
+#: inc/admin/admin-options.php:2142
+msgid ""
+"As an admin, you can then view all affiliate applications, and approve/deny "
+"them. This will then automatically create the coupon, and assign that user "
+"to it."
+msgstr ""
+
+#: inc/admin/admin-options.php:711 inc/admin/admin-page.php:262
+msgid "Assign Affiliates to Coupons"
+msgstr ""
+
+#: inc/admin/admin-options.php:1194
+msgid ""
+"Assigning a landing page to a coupon will act in the same way as a referral "
+"URL (click tracking and auto assign coupon)."
+msgstr ""
+
+#: inc/admin/admin-options.php:1603
+msgid "At which order status should \"unpaid commission\" be granted:"
+msgstr ""
+
+#: inc/admin/admin-options.php:2233
+msgid "Automatically accept all affiliate registration applications."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:311
+msgid ""
+"Automatically add unpaid commission a number of days after completion "
+"(optional)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2772
+msgid "Automatically apply coupon to cart/checkout if referral URL is used."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:353
+msgid ""
+"Automatically generate a PDF statement when your affiliates request a "
+"commission payout."
+msgstr ""
+
+#: inc/admin/admin-options.php:1035 inc/admin/admin-options.php:1538
+#: inc/admin/admin-options.php:1677 inc/admin/admin-options.php:1973
+#: inc/admin/admin-options.php:2132 inc/admin/admin-options.php:2499
+msgid "Available with Pro version."
+msgstr ""
+
+#: inc/admin/admin-options.php:3029 inc/admin/admin-options.php:3040
+#: inc/admin/admin-options.php:3051 inc/admin/admin-options.php:3062
+#: inc/admin/admin-options.php:3073
+msgid "Background"
+msgstr ""
+
+#: inc/admin/admin-page.php:298
+msgid "Basic Admin Reports"
+msgstr ""
+
+#: inc/admin/admin-options.php:3059
+msgid "Buttons"
+msgstr ""
+
+#: inc/admin/admin-options.php:3070
+msgid "Buttons Hover"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:152
+#: inc/admin-reports/admin-reports.php:484
+msgid "by more than"
+msgstr ""
+
+#: inc/admin/admin-options.php:803
+msgid "By which date should orders be sorted on the affiliate dashboard?"
+msgstr ""
+
+#: inc/admin/admin-options.php:2720
+msgid ""
+"Calculate affiliate commission BEFORE the discount is applied (at full price)"
+"."
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:176
+#: inc/functions/functions-urls.php:433
+msgid "Campaign"
+msgstr ""
+
+#: premium-files/pro-addons/campaigns/functions-campaigns.php:191
+msgid "campaign"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:108
+msgid "Campaign Name"
+msgstr ""
+
+#: inc/admin/admin-options.php:2804
+msgid "Campaign URL variable"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:211
+msgid "Campaigns (Referral URL)"
+msgstr ""
+
+#: inc/admin/admin-options.php:1181
+msgid "Can also be set on a per-coupon basis."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:119
+msgid "Cancel"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:119
+msgid "Cancel this payout request."
+msgstr ""
+
+#: premium-files/dashboard/tab-payout.php:226
+#: premium-files/pro-addons/payouts/payouts-admin.php:53
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:57
+msgid "Cancelled"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:92
+msgid ""
+"Cancelled: When a payout is cancelled, the commission will be returned to "
+"the affiliate as unpaid commission."
+msgstr ""
+
+#: inc/admin/admin-options.php:1634
+msgid "Change Payment Details Label (Default: \"Payment Details\")"
+msgstr ""
+
+#: inc/admin/admin-options.php:1640
+msgid "Change Payment Method Label (Default: \"Manual\")"
+msgstr ""
+
+#: inc/admin/admin-translations.php:107
+#: inc/functions/functions-translations.php:137
+msgid "City"
+msgstr ""
+
+#: inc/admin/admin-page.php:350
+msgid ""
+"click \"edit\" on the coupon, then go to \"Coupon Affiliates & Commission\" "
+"data settings tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:2830
+msgid "Click / Visit History"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:522
+msgid "Click for more details"
+msgstr ""
+
+#: inc/admin/admin-options.php:3384
+msgid "click here"
+msgstr ""
+
+#: inc/admin/admin-options.php:3021
+msgid "Colours"
+msgstr ""
+
+#: inc/admin/admin-page.php:378 inc/admin/admin-pro-details.php:407
+msgid "Combined Totals"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:555
+msgid "Coming Soon!"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:343
+#: inc/admin-reports/admin-reports.php:644
+#: inc/admin-reports/admin-reports.php:689 inc/admin/admin-orders-box.php:47
+#: inc/admin/admin-options.php:577 inc/admin/admin-orders-list.php:139
+#: inc/admin/admin-translations.php:117 inc/admin/admin-translations.php:133
+#: inc/functions/functions-translations.php:158
+#: inc/functions/functions-translations.php:364
+msgid "Commission"
+msgstr ""
+
+#: inc/admin/admin-translations.php:95
+#: inc/functions/functions-translations.php:115
+msgid "Commission Graph"
+msgstr ""
+
+#: inc/admin/admin-options.php:1043 inc/admin/admin-page.php:356
+#: inc/admin/admin-pro-details.php:153
+msgid "Commission Line Graphs"
+msgstr ""
+
+#: inc/admin/admin-page.php:124 inc/admin/admin-page.php:369
+msgid "Commission Payouts"
+msgstr ""
+
+#: inc/admin/admin-options.php:1540
+msgid "Commission Payouts Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:352
+msgid "Commission Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:2639
+msgid ""
+"Commission will be earned for every renewal order in the subscription, at "
+"the rates you have set."
+msgstr ""
+
+#: inc/admin/admin-options.php:1743
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:64
+msgid "Company Name"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:129
+msgid "Compare with another date range"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "Comparing with date period"
+msgstr ""
+
+#: inc/admin/admin-options.php:806
+msgid "Completed Date"
+msgstr ""
+
+#: inc/admin/admin-translations.php:188
+#: inc/functions/functions-translations.php:274
+msgid "Completed Payments"
+msgstr ""
+
+#: inc/admin/admin-translations.php:29
+msgid "contact us"
+msgstr ""
+
+#: inc/admin/admin-translations.php:167
+#: inc/functions/functions-translations.php:205
+msgid "Conversion Rate"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:113
+#: inc/functions/functions-url-clicks.php:190
+msgid "Converted"
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:167
+msgid "Converted?"
+msgstr ""
+
+#: inc/admin/admin-translations.php:169
+#: inc/functions/functions-translations.php:210
+msgid "Copy"
+msgstr ""
+
+#: inc/admin/admin-list.php:99
+msgid "Copy URL"
+msgstr ""
+
+#: inc/admin/admin-translations.php:105
+#: inc/functions/functions-translations.php:133
+msgid "Country"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:169
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:94
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:109
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:114
+msgid "Coupon"
+msgstr ""
+
+#. Name of the plugin
+msgid "Coupon Affiliates for WooCommerce (Pro)"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-admin.php:205
+msgid "Coupon code successfully created:"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-admin.php:212
+msgid "Coupon code was not created. Template coupon does not exist."
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-admin.php:221
+msgid "Coupon code was not created. Template has not been selected."
+msgstr ""
+
+#: inc/admin/admin-options.php:2738
+msgid "Coupon Commission Settings"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:640
+#: inc/admin-reports/admin-reports.php:654
+msgid "Coupon ID"
+msgstr ""
+
+#: inc/admin/admin-translations.php:81
+#: inc/functions/functions-translations.php:80
+msgid "Coupon Info"
+msgstr ""
+
+#: inc/admin/admin-options.php:467 inc/admin/admin-page.php:116
+msgid "Coupons List"
+msgstr ""
+
+#: inc/admin/admin-page.php:257
+msgid "coupons list"
+msgstr ""
+
+#: inc/admin/admin-options.php:713 inc/admin/admin-page.php:263
+#: inc/admin/admin-page.php:350
+msgid "coupons management page"
+msgstr ""
+
+#: inc/admin/admin-page.php:57
+msgid ""
+"Create a coupon based affiliate program for your WooCommerce website, and "
+"view coupon usage statistics."
+msgstr ""
+
+#: inc/admin/admin-page.php:257
+msgid ""
+"Create a coupon code as normal in the WooCommerce, then get the unique "
+"\"affiliate dashboard link\" for that coupon in the"
+msgstr ""
+
+#: inc/admin/admin-options.php:2158
+msgid "Create a template coupon code"
+msgstr ""
+
+#: inc/admin/admin-page.php:157
+msgid "Create Support Ticket"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:367
+msgid ""
+"Create your own tabs, to display custom sections and content on the "
+"affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-page.php:255
+msgid "Creating Affiliates & Coupons"
+msgstr ""
+
+#: inc/admin/admin-options.php:630 inc/admin/admin-options.php:2503
+#: inc/admin/admin-options.php:2982 inc/admin/admin-page.php:361
+#: inc/admin/admin-pro-details.php:139
+#: inc/functions/functions-shortcode.php:348
+#: premium-files/pro-addons/creatives/functions-creatives.php:76
+msgid "Creatives"
+msgstr ""
+
+#: inc/admin/admin-options.php:2554
+msgid "Creatives Per Row"
+msgstr ""
+
+#: inc/admin/admin-options.php:271
+msgid "Creatives Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:2542
+msgid "Creatives Text"
+msgstr ""
+
+#: inc/admin/admin-options.php:603
+msgid "Currencies"
+msgstr ""
+
+#: inc/admin/admin-options.php:203
+msgid "Currency Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:2045
+msgid ""
+"Currently in BETA. Please make sure you test before using actively with your "
+"affiliates. If for some reason it does not work with your multi currency "
+"plugin, please let us know."
+msgstr ""
+
+#: inc/admin/admin-options.php:2714
+msgid "Custom \"Commission\" message on coupon affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:190 inc/admin/admin-options.php:1977
+msgid "Custom Affiliate Dashboard Tabs"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:183
+msgid "Custom Commission Per Coupon"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:197
+msgid "Custom Commission Per Product"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:365
+msgid "Custom Dashboard Tabs"
+msgstr ""
+
+#: inc/admin/admin-options.php:914
+msgid "Custom Tax Adjustment (%):"
+msgstr ""
+
+#: inc/admin/admin-options.php:663 inc/admin/admin-options.php:2824
+msgid "Custom Text"
+msgstr ""
+
+#: inc/admin/admin-translations.php:32
+msgid "Custom Translations"
+msgstr ""
+
+#: inc/admin/admin-options.php:817
+msgid "Customise what data is shown on the coupon affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-list.php:96
+msgid "DASHBOARD"
+msgstr ""
+
+#: inc/admin/admin-translations.php:111
+#: inc/functions/functions-url-clicks.php:181
+#: inc/functions/functions-translations.php:146
+#: premium-files/pro-addons/payouts/statements/template.php:179
+#: premium-files/pro-addons/payouts/statements/template.php:232
+msgid "Date"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:163
+msgid "Date Accepted"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:162
+msgid "Date Applied"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:110
+msgid "Date comparisons and more filters are available with the"
+msgstr ""
+
+#: inc/admin/admin-translations.php:204
+#: inc/functions/functions-translations.php:307
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:174
+msgid "Date Paid"
+msgstr ""
+
+#: inc/admin/admin-translations.php:202
+#: inc/functions/functions-translations.php:303
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:173
+msgid "Date Requested"
+msgstr ""
+
+#: inc/admin/admin-options.php:637
+msgid "Debug"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:116
+msgid "Decline"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:115
+msgid "Decline Application"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-admin.php:120
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:66
+msgid "Declined"
+msgstr ""
+
+#: inc/admin/admin-options.php:915
+msgid ""
+"Deduct a custom percentage from the order subtotal, before calculating the "
+"commission."
+msgstr ""
+
+#: inc/admin/admin-options.php:736
+msgid "Default amount of \"latest orders\" to show:"
+msgstr ""
+
+#: inc/admin/admin-options.php:1118
+msgid "Default number of months to show"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:71
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:95
+msgid "Delete"
+msgstr ""
+
+#: premium-files/pro-addons/campaigns/functions-campaigns.php:142
+msgid "Delete Campaign"
+msgstr ""
+
+#: inc/admin/admin-options.php:3344
+msgid "Delete plugin options and custom database tables on plugin deletion."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:128
+msgid "Delete this payout request."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:233
+msgid "Description"
+msgstr ""
+
+#: inc/admin/admin-options.php:371 inc/admin/admin-options.php:634
+msgid "Design"
+msgstr ""
+
+#: inc/admin/admin-options.php:3002
+msgid "Design & Layout"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:533
+msgid "DETAILS"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:160
+msgid "Details"
+msgstr ""
+
+#: inc/admin/admin-options.php:3282
+msgid ""
+"DISABLE the dropdown list of users on the \"edit coupon\" admin pages for "
+"the \"Affiliate User\" option."
+msgstr ""
+
+#: inc/admin/admin-translations.php:67
+#: inc/functions/functions-translations.php:50
+msgid "Discount"
+msgstr ""
+
+#: inc/admin/admin-translations.php:207
+msgid "Discount Types"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:344
+#: inc/admin-reports/admin-reports.php:645
+#: inc/admin-reports/admin-reports.php:699 inc/admin/admin-translations.php:129
+#: inc/functions/functions-translations.php:356
+msgid "Discounts"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:141
+msgid ""
+"Display a creatives section with downloadable banners. They can also "
+"generate an embed code to easily display it on their site."
+msgstr ""
+
+#: inc/admin/admin-options.php:2507
+msgid ""
+"Display a creatives section with downloadable banners/media on the affiliate "
+"dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:1213
+msgid ""
+"Display a custom message above the list of landing pages on the affiliate "
+"dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:2547
+msgid ""
+"Display a custom message at the top of the creatives tab on the affiliate "
+"dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:920
+msgid "Display adjusted total and subtotal."
+msgstr ""
+
+#: inc/admin/admin-page.php:340
+msgid "Display Affiliate Registration Form"
+msgstr ""
+
+#: inc/admin/admin-options.php:2637
+msgid ""
+"Display orders and reward commission for WooCommerce subscription renewals"
+msgstr ""
+
+#: inc/admin/admin-page.php:333
+msgid "Display Single Coupon"
+msgstr ""
+
+#: inc/admin/admin-page.php:268
+msgid "Display Users Affiliate Coupon(s) on a page"
+msgstr ""
+
+#: inc/admin/admin-options.php:2825
+msgid ""
+"Displayed at top of the \"referral URL\" section on the coupon affiliate "
+"dashboard page. HTML tags enabled."
+msgstr ""
+
+#: inc/admin/admin-options.php:664
+msgid ""
+"Displayed at top the \"statistics\" section on the coupon affiliate "
+"dashboard page. HTML tags enabled."
+msgstr ""
+
+#: inc/admin/admin-options.php:3386
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:334
+msgid "Download CSV"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily create an affiliate program for WooCommerce, based on coupons. Track "
+"affiliate commission, coupon usage statistics, referral URLs, and more."
+msgstr ""
+
+#: inc/admin/admin-options.php:713 inc/admin/admin-page.php:263
+msgid "edit a coupon and assign users under the \"coupon affiliates\" tab"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:635
+#: inc/admin/class-clicks-list-table.php:40
+msgid "Edit Coupon"
+msgstr ""
+
+#: inc/admin/admin-page.php:349
+msgid "Edit Unpaid Commission"
+msgstr ""
+
+#. Author of the plugin
+msgid "Elliot Sowersby"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:314
+msgid "Email Address"
+msgstr ""
+
+#: inc/admin/admin-options.php:2302
+msgid "Email Address / Username Fields"
+msgstr ""
+
+#: inc/admin/admin-options.php:1261
+msgid "Email address for recieving admin notifications:"
+msgstr ""
+
+#: inc/admin/admin-options.php:2973
+msgid "Email Message"
+msgstr ""
+
+#: inc/admin/admin-options.php:1324 inc/admin/admin-options.php:1360
+#: inc/admin/admin-options.php:1396 inc/admin/admin-options.php:1427
+#: inc/admin/admin-options.php:1459 inc/admin/admin-options.php:1489
+#: inc/admin/admin-options.php:1519
+msgid "Email Notification Message"
+msgstr ""
+
+#: inc/admin/admin-translations.php:224
+#: inc/functions/functions-translations.php:318
+msgid "Email Notification Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:1318 inc/admin/admin-options.php:1347
+#: inc/admin/admin-options.php:1381 inc/admin/admin-options.php:1417
+#: inc/admin/admin-options.php:1448 inc/admin/admin-options.php:1480
+#: inc/admin/admin-options.php:1510
+msgid "Email Notification Subject"
+msgstr ""
+
+#: inc/admin/admin-options.php:1243 inc/admin/admin-options.php:2293
+msgid "Email Notifications"
+msgstr ""
+
+#: inc/admin/admin-options.php:2143
+msgid ""
+"Email notifications will be sent to both admins and users on affiliate "
+"registration, and approval."
+msgstr ""
+
+#: inc/admin/admin-options.php:2967
+msgid "Email Subject"
+msgstr ""
+
+#: inc/admin/admin-options.php:1192
+msgid "Enable \"affiliate landing pages\" features."
+msgstr ""
+
+#: inc/admin/admin-options.php:1157
+msgid "Enable \"lifetime commission\" features."
+msgstr ""
+
+#: inc/admin/admin-options.php:1167
+msgid ""
+"Enable \"lifetime commission\" functionality globally for all affiliate "
+"coupons."
+msgstr ""
+
+#: inc/admin/admin-options.php:890
+msgid "Enable \"Multi-Currency\" Functionality"
+msgstr ""
+
+#: inc/admin/admin-options.php:3007
+msgid "Enable \"tabbed\" layout (recommended)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2149
+msgid "Enable Affiliate Registration Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:3012
+msgid "Enable boxed \"Statistics\" tab layout (recommended)."
+msgstr ""
+
+#: inc/admin/admin-options.php:1130
+msgid "Enable button to export an Excel file of \"monthly summary\" table."
+msgstr ""
+
+#: inc/admin/admin-options.php:1135
+msgid "Enable button to export an Excel file of \"recent orders\" table."
+msgstr ""
+
+#: inc/admin/admin-options.php:2693
+msgid "Enable commission calculation statistics etc."
+msgstr ""
+
+#: inc/admin/admin-translations.php:226
+#: inc/functions/functions-translations.php:323
+msgid "Enable Email Notifications"
+msgstr ""
+
+#: inc/admin/admin-options.php:1626
+msgid "Enable Manual Payment Method"
+msgstr ""
+
+#: inc/admin/admin-options.php:2066
+msgid "Enable multi currency settings."
+msgstr ""
+
+#: inc/admin/admin-options.php:1005
+msgid ""
+"Enable or disable the \"affiliate info\" sections displayed on WooCommerce "
+"orders in the backend."
+msgstr ""
+
+#: inc/admin/admin-options.php:1576
+msgid "Enable Payout Requests & Log Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:1556
+msgid "Enable Payouts Features"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:269
+msgid ""
+"Enable Payouts features, and automatically add \"unpaid\" commission to "
+"affiliates account on order completion."
+msgstr ""
+
+#: inc/admin/admin-options.php:2767
+msgid "Enable Referral URLs & Click Tracking for Coupon Affiliates"
+msgstr ""
+
+#: inc/admin/admin-options.php:2360
+msgid "Enable terms acceptance checkbox on affiliate registration form."
+msgstr ""
+
+#: inc/admin/admin-options.php:1270
+msgid ""
+"Enable the \"Additional Email Addresses\" field in affiliate settings, to "
+"allow them to add extra emails to send their notifications to."
+msgstr ""
+
+#: inc/admin/admin-options.php:2761
+msgid ""
+"Enable the Referral URL section on the coupon stats page which displays the "
+"referral URL, along with the amount of clicks it has received."
+msgstr ""
+
+#: inc/admin/admin-options.php:1174
+msgid ""
+"Enable this to only link customer to coupon as \"lifetime referral\" if the "
+"coupon has a user affiliate assigned to it."
+msgstr ""
+
+#: inc/admin/admin-options.php:1168
+msgid ""
+"Enabling this option will enable lifetime commission for ALL your affiliates "
+"& coupons. You can alternatively enable lifetime commission on a per-coupon "
+"basis, in the individual coupon settings."
+msgstr ""
+
+#: inc/admin/admin-options.php:698
+msgid ""
+"Enabling this will allow the URL to be used without the ID, but both URLs "
+"will still work."
+msgstr ""
+
+#: inc/admin/admin-translations.php:149
+#: inc/functions/functions-translations.php:230
+msgid "End"
+msgstr ""
+
+#: inc/admin/admin-options.php:737
+msgid ""
+"Enter 0 to hide recent orders section. Orders need to be status "
+"\"COMPLETED\" to be displayed."
+msgstr ""
+
+#: inc/admin/admin-options.php:1751
+msgid "Enter your Address Line 1 to show on statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:1757
+msgid "Enter your Address Line 2 to show on statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:1763
+msgid "Enter your city, state and ZIP/postal code to show on statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:2684
+#, php-format
+msgid ""
+"Enter your commission amounts below (0 to disable). If you enter multiple "
+"types, they will be combined. For example you could have: 10% of total order,"
+" plus an extra $2 per product."
+msgstr ""
+
+#: inc/admin/admin-options.php:1744
+msgid "Enter your Company Name to show on statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:1769
+msgid "Enter your VAT/Tax number to show on statements."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:100
+msgid "equal"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:98
+msgid "equal or less"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:96
+msgid "equal or more"
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:210
+msgid ""
+"ERROR: Failed to load data due to something blocking the plugins ajax "
+"requests.</span>"
+msgstr ""
+
+#: inc/admin/admin-options.php:1152
+msgid ""
+"Even if the \"coupon code\" isnt used, the commission and sales will still "
+"be tracked on the coupons affiliate dashboard. All future orders by that "
+"customer, even with different coupon codes, will only apply to the original "
+"coupon affiliate."
+msgstr ""
+
+#: inc/admin/admin-options.php:2806
+msgid "Example URL with campaign \"twitter\" would be"
+msgstr ""
+
+#: inc/admin/admin-options.php:2790
+msgid "Example URL with coupon code \"example10\" would be"
+msgstr ""
+
+#: inc/admin/admin-translations.php:121
+#: inc/functions/functions-translations.php:340
+msgid "Export to Excel"
+msgstr ""
+
+#: inc/admin/admin-options.php:1127 inc/admin/admin-pro-details.php:168
+msgid "Export to Excel Buttons"
+msgstr ""
+
+#: inc/admin/admin-options.php:3289
+msgid "Extra Settings"
+msgstr ""
+
+#: premium-files/dashboard/tab-payout.php:171
+#: premium-files/dashboard/tab-payout.php:208
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:175
+msgid "Files"
+msgstr ""
+
+#: inc/admin/admin-translations.php:151
+#: inc/functions/functions-translations.php:235
+msgid "Filter"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:46
+#: premium-files/pro-addons/registration/registration-admin.php:113
+msgid "Filter by"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:323
+msgid "First Name"
+msgstr ""
+
+#: inc/admin/admin-translations.php:209
+#: inc/functions/functions-translations.php:23
+msgid "Fixed amount on cart."
+msgstr ""
+
+#: inc/admin/admin-options.php:2705
+msgid "Fixed Amount Per Order"
+msgstr ""
+
+#: inc/admin/admin-options.php:2710
+msgid "Fixed Amount Per Product"
+msgstr ""
+
+#: inc/admin/admin-translations.php:217
+#: inc/functions/functions-translations.php:43
+msgid "Fixed discount on subscription signup."
+msgstr ""
+
+#: inc/admin/admin-page.php:373
+msgid "Flexible Commission - Per Product or Coupon"
+msgstr ""
+
+#: inc/admin/admin-options.php:2680
+msgid "Flexible Commission Settings"
+msgstr ""
+
+#: inc/admin/admin-page.php:374
+msgid ""
+"Flexible commission settings can also be set at product level, as well as "
+"coupon level. To do this, simply edit a product, or coupon, and visit the "
+"\"Coupon Affiliates & Commission\" data settings tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:792
+msgid ""
+"For \"commission payouts\" feature in PRO, for \"unpaid commission\" to be "
+"granted, the order status must be completed, or you can customise this in "
+"the \"Payouts\" settings."
+msgstr ""
+
+#: inc/admin/admin-page.php:403
+msgid "For more in-depth tutorials and guides, see our plugin documentation:"
+msgstr ""
+
+#: inc/admin/admin-options.php:3388
+msgid "For plugin documentation and FAQs visit"
+msgstr ""
+
+#: inc/admin/admin-options.php:1578
+msgid ""
+"For this to show, a user/affiliate account must be assigned to that coupon. "
+"The tab is only shown to this user."
+msgstr ""
+
+#: inc/admin/admin-options.php:2380
+msgid "Form Submission"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:78
+msgid "Free version can display reports for up to the past 4 weeks."
+msgstr ""
+
+#: inc/admin/admin-options.php:1248
+msgid "From Email Address:"
+msgstr ""
+
+#: inc/admin/admin-options.php:1253
+msgid "From Name:"
+msgstr ""
+
+#: inc/admin/admin-options.php:574 inc/admin/admin-translations.php:65
+msgid "General"
+msgstr ""
+
+#: inc/admin/admin-options.php:25 inc/admin/admin-options.php:657
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:3125
+msgid ""
+"Generally there should not be any reason to turn these off, but its here "
+"just incase, and for debugging."
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:90
+msgid "Generate Dashboard Page >"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:257
+msgid "GENERATE NEW REPORT"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:168
+msgid "Generate Report"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:57
+msgid "Generate your coupon affiliate report"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:249
+msgid "Generating Report"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:423
+msgid ""
+"Get priority support, and your suggestions will have more priority for "
+"development."
+msgstr ""
+
+#: inc/admin/admin-page.php:72
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/admin-page.php:384 inc/admin/admin-pro-details.php:381
+msgid ""
+"Give your affiliates lifetime commission for ALL future purchases from all "
+"their referred users."
+msgstr ""
+
+#: inc/admin/admin-options.php:2456
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:150
+msgid "have decreased"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:149
+msgid "have increased"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:148
+msgid "have increased or decreased"
+msgstr ""
+
+#: inc/admin/admin-options.php:419
+msgid "Help Area"
+msgstr ""
+
+#: inc/admin/admin-page.php:165
+msgid "Help Documentation"
+msgstr ""
+
+#: inc/admin/admin-options.php:3257
+msgid "Hide the \"all-time\" stats on statistics tab and line graph."
+msgstr ""
+
+#: inc/admin/admin-options.php:3292
+msgid ""
+"Hide the \"Coupon code applied successfully.\" message on all pages except "
+"for the cart/checkout pages."
+msgstr ""
+
+#: inc/admin/admin-options.php:3299
+msgid "Hide the WooCommerce marketing boxes on coupons list."
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:386
+msgid "How did you hear about us?"
+msgstr ""
+
+#: inc/admin/admin-options.php:2559
+msgid ""
+"How many creatives to show per row (on larger screens). Recommended between "
+"2 - 4. On mobile devices this will be responsive, and only shows 1 per row."
+msgstr ""
+
+#: inc/admin/admin-options.php:1119
+msgid "How many months to show on the \"monthly summary\" table by default."
+msgstr ""
+
+#: inc/admin/admin-options.php:2841
+msgid "How many recent clicks should be shown?"
+msgstr ""
+
+#: inc/admin/admin-options.php:1587
+msgid ""
+"How much unpaid commission must be earned before the affiliate can request a "
+"payout:"
+msgstr ""
+
+#: inc/admin/admin-options.php:640
+#: premium-files/pro-addons/payouts/payouts-admin.php:43
+msgid "How To Use"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:367
+msgid "How will you promote us?"
+msgstr ""
+
+#: inc/admin/admin-translations.php:26
+msgid ""
+"However, if you dont want to use internationalization, you can use enter "
+"custom translations for any specific phrases (frontend only) used in the "
+"plugin below, and this will overwrite the internationalized translations."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://couponaffiliates.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://couponaffiliates.com/#about"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:279
+msgid "I have read and agree to the Affiliate Terms and Privacy Policy."
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:106
+#: inc/admin/admin-translations.php:103 inc/admin/admin-translations.php:194
+#: inc/functions/functions-url-clicks.php:165
+#: inc/functions/functions-translations.php:129
+#: inc/functions/functions-translations.php:287
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:98
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:107
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:116
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:125
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:166
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:155
+msgid "ID"
+msgstr ""
+
+#: inc/admin/admin-options.php:1545
+msgid ""
+"If an order is refunded then the commission will be removed from the users "
+"account."
+msgstr ""
+
+#: inc/admin/admin-options.php:2819
+msgid ""
+"If disabled, only the first click from the visitor will be tracked (until "
+"the cookie expires)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2640
+msgid ""
+"If disabled, only the parent (first) order for the subscription will earn "
+"commission."
+msgstr ""
+
+#: inc/admin/admin-options.php:2818
+msgid ""
+"If enabled, all new referral URL clicks from the same user will be tracked "
+"(and increases total clicks + visit logged in click history)."
+msgstr ""
+
+#: inc/admin/admin-options.php:909
+msgid ""
+"If enabled, order tax will be included in all stats/calculations on the "
+"affiliate dashboard, and in calculations for commission earned."
+msgstr ""
+
+#: inc/admin/admin-options.php:3346
+msgid ""
+"If enabled, when uninstalling (deleting) the plugin, most plugin options and "
+"custom tables/data created by this plugin will be deleted. Some data will "
+"still remain such as custom order & coupon meta data (if any)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2813
+msgid ""
+"If for some reason the user deletes/removes the coupon manually from their "
+"cart, the cookie will also be removed."
+msgstr ""
+
+#: inc/admin/admin-options.php:1596
+msgid ""
+"If set to \"0\" then commission will be added to the affiliates account "
+"instantly when an order is completed."
+msgstr ""
+
+#: inc/admin/admin-page.php:294
+msgid ""
+"If the referral URL is used, the coupon code will automatically be applied "
+"to the users checkout. The coupon must be used for commission to be tracked."
+msgstr ""
+
+#: inc/admin/admin-options.php:823
+msgid ""
+"If the user is an admin, then the ID will also be clickable to open the "
+"order page in the backend."
+msgstr ""
+
+#: inc/admin/admin-options.php:2222
+msgid ""
+"If the user is not already registered as an affilaite and has no active "
+"coupons, this will show the registration from on the affiliate dashboard "
+"page."
+msgstr ""
+
+#: inc/admin/admin-options.php:1204
+msgid ""
+"If there are no landing pages assigned to the coupon, then this will be "
+"hidden."
+msgstr ""
+
+#: inc/admin/admin-options.php:3112
+msgid ""
+"If you are experiencing any performance issues or other bugs with the plugin,"
+" please try enabling/disabling relevant settings below."
+msgstr ""
+
+#: inc/admin/admin-options.php:3294
+msgid ""
+"If you dont want the message to always show, toggle this setting on, and it "
+"will instead only show on the cart/checkout pages."
+msgstr ""
+
+#: inc/admin/admin-options.php:3236
+msgid ""
+"If you experience very high volumes of orders for each coupon, this should "
+"help greately with affiliate dashboard speed/performance."
+msgstr ""
+
+#: inc/admin/admin-options.php:3384
+msgid "If you need help, or have any suggestions,"
+msgstr ""
+
+#: inc/admin/admin-options.php:1595
+msgid ""
+"If you use this, we recommend testing that it works before using in "
+"production."
+msgstr ""
+
+#: inc/admin/admin-page.php:271
+msgid ""
+"If you want to display the full coupon affiliate dashboard page "
+"automatically, if only 1 coupon is assigned to the user, then go to "
+"\"General\" Settings and enable the option \"Show full coupon page info "
+"automatically\"."
+msgstr ""
+
+#: inc/admin/admin-translations.php:29
+msgid ""
+"If you would like to translate this plugin to your language for us, that "
+"would be much appreciated. Please"
+msgstr ""
+
+#: inc/admin/admin-options.php:1143
+msgid ""
+"In the \"recent orders\" table, and \"monthly summary\" table (pro), the "
+"totals for all orders within the selected date range will be shown in a new "
+"row at the bottom."
+msgstr ""
+
+#: inc/admin/admin-options.php:1981
+msgid ""
+"In this section, you can create your own custom tabs to show on the "
+"affiliate dashboard. Shortcode usage supported."
+msgstr ""
+
+#: inc/admin/admin-options.php:2049
+msgid ""
+"In this section, you can manage multi-currency settings, if you are using a "
+"multi currency plugin."
+msgstr ""
+
+#: inc/admin/admin-options.php:157
+msgid "Invoice & Statement Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:617
+msgid "Invoices"
+msgstr ""
+
+#: inc/admin/admin-options.php:1679
+msgid "Invoices and Statements"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:111
+msgid "IP Address"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:325
+msgid ""
+"Keep track of your commission payouts to your affiliates in the plugin admin "
+"area."
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:109
+#: inc/functions/functions-url-clicks.php:169
+msgid "Landing Page"
+msgstr ""
+
+#: premium-files/pro-addons/landing-pages/functions-landing-pages.php:58
+msgid "Landing Pages"
+msgstr ""
+
+#: inc/admin/admin-options.php:1212
+msgid "Landing Pages Text"
+msgstr ""
+
+#: inc/admin/admin-options.php:1070 inc/admin/admin-translations.php:85
+#: inc/functions/functions-translations.php:90
+msgid "Last 30 Days"
+msgstr ""
+
+#: inc/admin/admin-options.php:1070 inc/admin/admin-translations.php:87
+#: inc/functions/functions-translations.php:95
+msgid "Last 7 Days"
+msgstr ""
+
+#: inc/admin/admin-translations.php:89
+#: inc/functions/functions-translations.php:100
+msgid "Last 90 days"
+msgstr ""
+
+#: inc/admin/admin-options.php:1078 inc/admin/admin-translations.php:91
+#: inc/functions/functions-translations.php:110
+msgid "Last Month"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:327
+msgid "Last Name"
+msgstr ""
+
+#: inc/admin/admin-page.php:185
+msgid "Latest News & Updates"
+msgstr ""
+
+#: inc/admin/admin-translations.php:101
+#: inc/functions/functions-translations.php:167
+msgid "Latest orders using coupon"
+msgstr ""
+
+#: inc/admin/admin-options.php:2688 inc/admin/admin-getting-started.php:59
+#: inc/admin/admin-getting-started.php:83
+msgid "Learn More"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:473
+msgid "Learn more about Pro and upgrade at"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:47
+msgid "Learn more about PRO at"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:99
+msgid "less"
+msgstr ""
+
+#: inc/admin/admin-options.php:1148 inc/admin/admin-page.php:383
+#: inc/admin/admin-pro-details.php:379
+msgid "Lifetime Commission"
+msgstr ""
+
+#: inc/admin/admin-options.php:1179
+msgid "Lifetime Commission Expiry (Days)"
+msgstr ""
+
+#: inc/admin/admin-options.php:502 inc/admin/admin-page.php:63
+msgid "Limited time offer"
+msgstr ""
+
+#: inc/admin/admin-options.php:3090
+msgid "Line Graph"
+msgstr ""
+
+#: inc/admin/admin-translations.php:139
+msgid "List of products sold this month"
+msgstr ""
+
+#: inc/functions/functions-translations.php:376
+msgid "List of products sold this month:"
+msgstr ""
+
+#: inc/admin/admin-options.php:959 inc/admin/admin-options.php:3189
+msgid "Load affiliate dashboard content after page load with ajax."
+msgstr ""
+
+#: inc/admin/admin-options.php:969 inc/admin/admin-options.php:3211
+msgid "Load each page individually with ajax."
+msgstr ""
+
+#: inc/admin/admin-options.php:3235
+msgid "Load tabs on affiliate dashboard as separate pages."
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:526
+#: inc/functions/functions-shortcode.php:614
+#: inc/functions/functions-shortcode.php:702
+#: inc/functions/functions-shortcode.php:789
+#: inc/functions/functions-shortcode.php:921
+msgid "Loading"
+msgstr ""
+
+#: inc/admin/admin-options.php:3377
+msgid "Localisation is supported. We recommended to using"
+msgstr ""
+
+#: inc/functions/functions-user-coupons.php:581
+msgid "Login"
+msgstr ""
+
+#: inc/admin/admin-options.php:1224
+msgid ""
+"Make all dashboard URLs private/hidden to everyone except administrators."
+msgstr ""
+
+#: inc/admin/admin-options.php:2195
+msgid ""
+"Make sure this matches the exact name of an existing template coupon code, "
+"otherwise the coupon may not be created automatically."
+msgstr ""
+
+#: inc/admin/admin-options.php:1699
+msgid "Make the invoice upload option required."
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:1140
+msgid "Manage Plugin Settings & Addons"
+msgstr ""
+
+#: inc/admin/admin-page.php:368
+msgid "Manage/Track Payouts"
+msgstr ""
+
+#: inc/functions/functions-translations.php:262
+msgid "Manual"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:101
+msgid "Mark as paid."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:110
+msgid "Mark as pending."
+msgstr ""
+
+#: inc/admin/admin-translations.php:198
+#: inc/functions/functions-translations.php:295
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:171
+#: premium-files/pro-addons/payouts/statements/template.php:185
+msgid "Method"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:87
+msgid "Modules & Features"
+msgstr ""
+
+#: inc/admin/admin-translations.php:123
+#: inc/functions/functions-translations.php:344
+msgid "Month"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:125 inc/admin/admin-translations.php:97
+#: inc/admin/admin-translations.php:133
+#: inc/functions/functions-translations.php:120
+msgid "Monthly Summary"
+msgstr ""
+
+#: inc/admin/admin-options.php:1083
+msgid "Monthly Summary Section"
+msgstr ""
+
+#: inc/admin/admin-translations.php:123 inc/admin/admin-translations.php:125
+#: inc/admin/admin-translations.php:127 inc/admin/admin-translations.php:129
+#: inc/admin/admin-translations.php:131
+msgid "Monthly Summary Table"
+msgstr ""
+
+#: inc/admin/admin-translations.php:135
+#: inc/functions/functions-translations.php:368
+msgid "MORE"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:97
+msgid "more"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:437
+msgid ""
+"More features coming soon. Get access to all future features included in the "
+"Pro version!"
+msgstr ""
+
+#: inc/admin/admin-options.php:1645
+msgid ""
+"More payment method options are coming soon, including payout as store "
+"credit, and automatic paypal payouts."
+msgstr ""
+
+#: inc/admin/admin-options.php:2043
+msgid "Multi-Currency Settings"
+msgstr ""
+
+#: inc/admin/admin-page.php:303
+msgid "Multi-Currency Support"
+msgstr ""
+
+#: inc/admin/admin-options.php:2195
+msgid "Must be unique, exact and case sensitive."
+msgstr ""
+
+#: inc/admin/admin-translations.php:109
+#: inc/functions/functions-translations.php:141
+msgid "Name"
+msgstr ""
+
+#: inc/admin/admin-options.php:1417
+msgid "New Affiliate Application"
+msgstr ""
+
+#: inc/admin/admin-options.php:1318
+msgid "New Coupon Usage"
+msgstr ""
+
+#: inc/admin/admin-options.php:1448
+msgid "New Payout Request"
+msgstr ""
+
+#: inc/functions/functions-subscriptions.php:227
+msgid "New Subscription (Parent Order)"
+msgstr ""
+
+#: inc/admin/admin-page.php:364
+msgid ""
+"Next, simply <a href=\"/wp-admin/edit.php?post_type=wcu-creatives\">add new "
+"creatives</a> and they will be displayed in the new \"Creatives\" tab on the "
+"affiliate dashboard."
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:60
+msgid "No"
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:1077
+#: inc/functions/functions-user-coupons.php:607
+msgid ""
+"No affiliate dashboard found. Please contact us for your unique affiliate "
+"dashboard URL."
+msgstr ""
+
+#: premium-files/pro-addons/creatives/functions-creatives.php:113
+msgid "No Campaign"
+msgstr ""
+
+#: inc/admin/admin-translations.php:145
+#: inc/functions/functions-translations.php:220
+msgid "No orders found."
+msgstr ""
+
+#: inc/admin/admin-options.php:729
+msgid ""
+"Normally it will just show the coupon name, discount, usage, and button to "
+"direct them to the unique URL ID, for the affiliate dashboard for that "
+"coupon."
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:190
+msgid "Not Converted"
+msgstr ""
+
+#: inc/admin/admin-options.php:1911
+msgid ""
+"Note: If statements are showing \"page not found\", simply click save in your"
+msgstr ""
+
+#: inc/admin/admin-options.php:2912
+msgid ""
+"Note: If you edit this, any previous short URLs created by your affiliates "
+"(with the old slug) will stop working."
+msgstr ""
+
+#: inc/admin/admin-options.php:961 inc/admin/admin-options.php:3191
+msgid ""
+"NOTE: In some rare cases, or certain themes, this option may not work and "
+"will show the \"loading...\" animation continuously. In this case, simply "
+"disable it or contact us to look into fixing it for you."
+msgstr ""
+
+#: inc/admin/admin-options.php:3326 inc/admin/admin-translations.php:61
+msgid "Note: It is recommended to now use"
+msgstr ""
+
+#: inc/admin/admin-options.php:976
+msgid ""
+"Note: This requires \"load with ajax\" option to be enabled in the \"debug\" "
+"section."
+msgstr ""
+
+#: inc/admin/admin-options.php:2057
+msgid ""
+"NOTE: Updating the conversion rates below will only update the totals for "
+"NEW orders (if the affiliate dashboard has been viewed at-least once)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2084
+msgid ""
+"Note: When enabled, any existing orders that do not currently have a "
+"conversion rate set, will save the rate as the rate set below (when the "
+"affiliate dashboard is next loaded)."
+msgstr ""
+
+#: inc/admin/admin-options.php:583
+msgid "Notifications"
+msgstr ""
+
+#: inc/admin/admin-options.php:98
+msgid "Notifications Settings"
+msgstr ""
+
+#: inc/admin/admin-page.php:258
+msgid ""
+"Now, whenever an order is made using the coupon, it will update the "
+"stats/data on the dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:1990
+msgid "Number of custom tabs"
+msgstr ""
+
+#: inc/admin/admin-options.php:1592
+msgid "Number of days after order \"completion\" until commission is earned:"
+msgstr ""
+
+#: inc/admin/admin-options.php:2090
+msgid "Number of Extra Currencies"
+msgstr ""
+
+#: inc/admin/admin-options.php:3283
+msgid ""
+"On rare occasions some sites with lots of users will struggle to load the "
+"edit coupon page, due to the dropdown list of users being too large. Turn "
+"this option on to disable the dropdown list of users and to just enter the "
+"user ID manually."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:86
+msgid "Only show coupons that are assigned to an affiliate user."
+msgstr ""
+
+#: inc/admin/admin-options.php:3276
+msgid ""
+"Only show users with the \"coupon affiliate\" role in dropdown list of users "
+"on the \"edit coupon\" admin pages for the \"Affiliate User\" option."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "Only showing coupons that are assigned to an affiliate user."
+msgstr ""
+
+#: inc/admin/admin-options.php:1173
+msgid "Only trigger lifetime referral if coupon is assigned to user."
+msgstr ""
+
+#: inc/admin/admin-options.php:1180
+msgid ""
+"Optional: How many days after being assigned as a \"lifetime\" referral "
+"should it expire, and the customer be unlinked from the customer."
+msgstr ""
+
+#: inc/admin/admin-translations.php:29
+msgid "or feel free to send the generated po/mo files."
+msgstr ""
+
+#: inc/admin/admin-translations.php:113
+#: inc/functions/functions-translations.php:150
+msgid "Order"
+msgstr ""
+
+#: inc/admin/admin-translations.php:115
+msgid "Order Total"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:342
+msgid "Orders"
+msgstr ""
+
+#: inc/admin/admin-options.php:3175
+msgid "Other"
+msgstr ""
+
+#: inc/admin/admin-page.php:397
+msgid "Other Information"
+msgstr ""
+
+#: inc/admin/admin-page.php:150
+msgid "Other Useful Links"
+msgstr ""
+
+#: inc/admin/admin-translations.php:159
+#: inc/functions/functions-translations.php:185
+msgid "Page URL"
+msgstr ""
+
+#: premium-files/dashboard/tab-payout.php:225
+#: premium-files/pro-addons/payouts/payouts-admin.php:49
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:54
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:101
+msgid "Paid"
+msgstr ""
+
+#: inc/admin/admin-options.php:805
+msgid "Paid Date"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:194
+msgid "Paid To"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:90
+msgid ""
+"Paid: When a payout is set as paid, the affiliates pending payout will be "
+"marked as paid, and the pending commission set to 0."
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:318
+msgid "Password"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:278
+msgid "Payment completed on "
+msgstr ""
+
+#: inc/functions/functions-translations.php:258
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:98
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:107
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:116
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:125
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:172
+msgid "Payment Details"
+msgstr ""
+
+#: inc/admin/admin-translations.php:180
+#: inc/functions/functions-translations.php:254
+msgid "Payment Threshold Required"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:173
+msgid "Payout ID"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:131
+msgid "Payout Statement Details"
+msgstr ""
+
+#: inc/admin/admin-options.php:470 inc/admin/admin-options.php:612
+#: inc/admin/admin-translations.php:172 inc/admin/admin-translations.php:174
+#: inc/functions/functions-translations.php:242
+msgid "Payouts"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:267
+msgid "Payouts Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:137 inc/admin/admin-translations.php:230
+#: inc/functions/functions-translations.php:333
+msgid "Payouts Settings"
+msgstr ""
+
+#: inc/admin/admin-translations.php:182
+msgid "PayPal"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:347
+#: premium-files/dashboard/tab-payout.php:227
+#: premium-files/pro-addons/payouts/payouts-admin.php:51
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:60
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:110
+#: premium-files/pro-addons/registration/registration-admin.php:118
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:63
+msgid "Pending"
+msgstr ""
+
+#: inc/admin/admin-options.php:2273
+msgid "Pending Affiliate User Role"
+msgstr ""
+
+#: inc/admin/admin-translations.php:186
+#: inc/functions/functions-translations.php:270
+msgid "Pending Payments"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:648
+#: inc/admin-reports/admin-reports.php:718
+msgid "Pending Payout"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:91
+msgid ""
+"Pending: When a payout is set as pending, the amount will be removed from "
+"the affiliates unpaid commission, and moved to pending commission. The user "
+"can not request any more payouts if they have one pending."
+msgstr ""
+
+#: inc/admin/admin-options.php:2700
+msgid "Percentage Amount Of Total Order"
+msgstr ""
+
+#: inc/admin/admin-translations.php:211
+#: inc/functions/functions-translations.php:28
+msgid "Percentage discount on cart."
+msgstr ""
+
+#: inc/admin/admin-options.php:397
+msgid "Performance & Debug"
+msgstr ""
+
+#: inc/admin/admin-options.php:3122 inc/admin/admin-options.php:3175
+msgid "Performance Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:3108
+msgid "Performance, Debug & Extra Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:990
+msgid "Permission required for plugin admin capabilities:"
+msgstr ""
+
+#: inc/admin/admin-options.php:2774
+msgid ""
+"Please note: A coupon code needs to be applied for the affiliate commission "
+"to be tracked/earned."
+msgstr ""
+
+#: inc/admin/admin-options.php:1227
+msgid ""
+"Please note: Even with this toggled off, if a coupon is assigned to a user, "
+"the unique link is also made private to that user."
+msgstr ""
+
+#: inc/admin/admin-options.php:2091
+msgid ""
+"Please refresh the page to add/remove the new currency options (found below) "
+"when you update this number."
+msgstr ""
+
+#: inc/admin/admin-options.php:1991
+msgid ""
+"Please refresh the page to add/remove the new tab settings (found below) "
+"when you update this number."
+msgstr ""
+
+#: inc/admin/admin-page.php:251
+msgid "Plugin Customization & Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:18 inc/admin/admin-page.php:112
+#: premium-files/pro-addons/payouts/payouts-admin.php:43
+msgid "Plugin Settings"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:333
+msgid "Preferred Coupon Code"
+msgstr ""
+
+#: inc/functions/functions-percentage-change.php:45
+#: inc/functions/functions-percentage-change.php:49
+#: inc/functions/functions-percentage-change.php:53
+#: inc/functions/functions-percentage-change.php:103
+#: inc/functions/functions-percentage-change.php:105
+msgid "Previous"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:421
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/admin-options.php:431
+msgid "Pro Details"
+msgstr ""
+
+#: inc/admin/admin-page.php:316
+msgid "Pro Features"
+msgstr ""
+
+#: inc/admin/admin-options.php:643
+msgid "PRO Modules"
+msgstr ""
+
+#: inc/admin/admin-options.php:63 inc/admin/admin-options.php:606
+#: inc/admin/admin-options.php:1039
+msgid "Pro Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:2737
+msgid "Product Commission Settings"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:729
+#: inc/admin-reports/admin-reports.php:733 inc/admin/admin-translations.php:119
+#: inc/functions/functions-translations.php:162
+msgid "Products"
+msgstr ""
+
+#: inc/admin/admin-options.php:2327
+msgid "Promote Field"
+msgstr ""
+
+#: inc/admin/admin-options.php:2337
+msgid "Promote field label"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:158
+msgid "Promote Method"
+msgstr ""
+
+#: inc/admin/admin-options.php:2859
+msgid "QR Code Generator"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:253
+msgid "QR Code Generator (Referral URL)"
+msgstr ""
+
+#: inc/admin/admin-translations.php:125
+#: inc/functions/functions-translations.php:352
+msgid "Quantity"
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:157
+msgid "Recent Clicks"
+msgstr ""
+
+#: inc/admin/admin-translations.php:99
+#: inc/functions/functions-translations.php:124
+msgid "Recent Orders"
+msgstr ""
+
+#: inc/admin/admin-options.php:1139
+msgid "Recent Orders List - Combined Totals Row"
+msgstr ""
+
+#: inc/admin/admin-translations.php:213
+#: inc/functions/functions-translations.php:33
+msgid "Recurring fixed discount on subscription fee."
+msgstr ""
+
+#: inc/admin/admin-translations.php:215
+#: inc/functions/functions-translations.php:38
+msgid "Recurring percentage discount on subscription fee."
+msgstr ""
+
+#: inc/admin/admin-options.php:2652
+msgid "Recurring Subscription Referral Limit"
+msgstr ""
+
+#: inc/admin/admin-options.php:2389
+msgid "Redirect to a different page."
+msgstr ""
+
+#: inc/admin/admin-options.php:2431
+msgid "Redirect to Page:"
+msgstr ""
+
+#: inc/admin/admin-options.php:2850
+msgid "Referral Campaigns"
+msgstr ""
+
+#: inc/admin/admin-translations.php:161
+#: inc/functions/functions-translations.php:190
+msgid "Referral Link"
+msgstr ""
+
+#: inc/functions/functions-urls.php:435
+msgid "Referral Statistics"
+msgstr ""
+
+#: inc/functions/functions-urls.php:433
+msgid "Referral Statistics for"
+msgstr ""
+
+#: inc/admin/admin-translations.php:157
+#: inc/functions/functions-translations.php:180
+msgid "Referral URL"
+msgstr ""
+
+#: inc/admin/admin-options.php:2788
+msgid "Referral URL variable"
+msgstr ""
+
+#: inc/admin/admin-options.php:580 inc/admin/admin-options.php:2757
+#: inc/admin/admin-page.php:291 inc/admin/admin-translations.php:155
+msgid "Referral URLs"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:159
+msgid "Referrer"
+msgstr ""
+
+#: inc/admin/admin-options.php:2342
+msgid "Referrer Field"
+msgstr ""
+
+#: inc/admin/admin-options.php:2352
+msgid "Referrer field label"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:110
+msgid "Referrer URL"
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:171
+msgid "Referring URL"
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:132
+msgid "Refresh stats..."
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:293
+msgid "Register New Affiliate Account"
+msgstr ""
+
+#: inc/admin/admin-options.php:625
+msgid "Registration"
+msgstr ""
+
+#: inc/admin/admin-options.php:219 inc/admin/admin-options.php:2200
+msgid "Registration Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:697
+msgid "Remove coupon ID from unique coupon URL."
+msgstr ""
+
+#: inc/admin/admin-options.php:2284
+msgid ""
+"Remove the pending affiliate role from user when their affiliate application "
+"is accepted."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "Report Complete!"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "Report created for"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:32 inc/admin/admin-page.php:140
+msgid "Reports & Analytics"
+msgstr ""
+
+#: inc/admin/admin-translations.php:176
+#: inc/functions/functions-translations.php:246
+msgid "Request Payout"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:157
+msgid "Requested Coupon"
+msgstr ""
+
+#: inc/admin/admin-options.php:749
+msgid "Required order status to show on affiliate dashboard:"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:643
+#: inc/admin-reports/admin-reports.php:679
+msgid "Sales"
+msgstr ""
+
+#: inc/admin/admin-options.php:3158
+msgid "Save the calculated \"all time\" stats for coupons as meta data."
+msgstr ""
+
+#: inc/admin/admin-options.php:3141
+msgid ""
+"Save the calculated \"commission\" values as meta data on each individual "
+"order."
+msgstr ""
+
+#: inc/admin/admin-options.php:2081
+msgid "Save the conversion rate for each order."
+msgstr ""
+
+#: inc/admin/admin-options.php:3122
+msgid "Saving Data"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:304
+msgid "Search Coupons"
+msgstr ""
+
+#: inc/admin/admin-options.php:2472
+msgid "Secret Key"
+msgstr ""
+
+#: premium-files/pro-addons/campaigns/functions-campaigns.php:141
+#: premium-files/pro-addons/creatives/functions-creatives.php:111
+msgid "Select a Campaign"
+msgstr ""
+
+#: inc/admin/admin-options.php:1372
+msgid ""
+"Send a custom new user account email (replaces default registration email)."
+msgstr ""
+
+#: inc/admin/admin-options.php:1408
+msgid "Send an email to admin when there is a new affiliate application."
+msgstr ""
+
+#: inc/admin/admin-options.php:1439
+msgid ""
+"Send an email to admin when there is a new payout request for unpaid "
+"commission."
+msgstr ""
+
+#: inc/admin/admin-options.php:1471
+msgid ""
+"Send an email to affiliate when their affiliate application is accepted."
+msgstr ""
+
+#: inc/admin/admin-options.php:1501
+msgid ""
+"Send an email to affiliate when their affiliate application is declined."
+msgstr ""
+
+#: inc/admin/admin-options.php:1338
+msgid ""
+"Send an email to affiliate when they submit the affiliate application form."
+msgstr ""
+
+#: inc/admin/admin-options.php:1308
+msgid ""
+"Send an email to affiliates whenever their coupon code is used (and the "
+"order is \"completed\")."
+msgstr ""
+
+#: inc/admin/admin-options.php:2263
+msgid "Set a different user role for pending affiliate users."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:185
+msgid "Set custom \"flexible commission\" amounts for each individual coupon."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:199
+msgid "Set custom \"flexible commission\" amounts for each individual product."
+msgstr ""
+
+#: inc/admin/admin-options.php:2789
+msgid ""
+"Set the referral URL variable that will be used in your site URL to identify "
+"the referrer and to automatically apply that coupon, and track clicks."
+msgstr ""
+
+#: inc/admin/admin-options.php:2805
+msgid ""
+"Set the referral URL variable that will be used to identify the campaign."
+msgstr ""
+
+#: inc/admin/admin-options.php:1181
+msgid "Set to \"0\" for permanent lifetime commission with no expiry time."
+msgstr ""
+
+#: inc/admin/admin-page.php:278
+msgid "Set Your Commission Rates"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:539
+msgid "SETTINGS"
+msgstr ""
+
+#: inc/admin/admin-translations.php:222
+#: inc/functions/functions-translations.php:313
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:87 inc/admin/admin-page.php:253
+#: inc/admin/admin-page.php:280
+msgid "settings page"
+msgstr ""
+
+#: inc/admin/admin-options.php:3413
+msgid "Settings Saved"
+msgstr ""
+
+#: inc/admin/admin-translations.php:220
+msgid "Settings Tab"
+msgstr ""
+
+#: inc/admin/admin-options.php:3365
+msgid "Setup and How to Use"
+msgstr ""
+
+#: inc/admin/admin-options.php:2461
+msgid ""
+"Setup Google reCAPTCHA on your affiliate registration form to help prevent "
+"spam."
+msgstr ""
+
+#: inc/admin/admin-options.php:993
+msgid "Shop Manager"
+msgstr ""
+
+#: premium-files/pro-addons/short-url/functions-short-url.php:144
+msgid "Short URL"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:239
+msgid "Short URL Generator (Referral URL)"
+msgstr ""
+
+#: inc/admin/admin-options.php:2880
+msgid "Short URLs"
+msgstr ""
+
+#: inc/admin/admin-options.php:2910
+msgid "Shortlink Slug"
+msgstr ""
+
+#: inc/admin/admin-options.php:2885
+msgid ""
+"Shortlinks are stored as a custom post type and can be viewed in \"Short "
+"URLs\" menu link under \"Coupon Affiliates\" in the admin area (visible when "
+"enabled)."
+msgstr ""
+
+#: inc/admin/admin-options.php:1110
+msgid "Show \"% Change\" (Percentage Change) Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:941
+msgid "Show \"Account Details\" section in the \"Settings\" tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:1010
+msgid "Show \"Affiliate Info\" Column in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:1015
+msgid "Show \"Affiliate Info\" widget in single orders."
+msgstr ""
+
+#: inc/admin/admin-options.php:1046
+msgid "Show \"commission graphs\" on the statistics tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:1107
+msgid "Show \"Commission\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:1101
+msgid "Show \"Discounts\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:2345
+msgid ""
+"Show \"How did you hear about us?\" field on affiliate application form."
+msgstr ""
+
+#: inc/admin/admin-options.php:2330
+msgid "Show \"How will you promote us?\" field on affiliate application form."
+msgstr ""
+
+#: inc/admin/admin-options.php:1202
+msgid "Show \"Landing Pages\" section on coupon affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:1092
+msgid "Show \"Month\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:1086
+msgid "Show \"monthly summary\" table section on affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:1113
+msgid ""
+"Show \"More\" column to show/hide \"List of products purchased\" section."
+msgstr ""
+
+#: inc/admin/admin-options.php:1095
+msgid "Show \"Order Count\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:1098
+msgid "Show \"Total Sales\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:1104
+msgid "Show \"Total\" Column."
+msgstr ""
+
+#: inc/admin/admin-options.php:2315
+msgid "Show \"Website\" field on affiliate application form."
+msgstr ""
+
+#: inc/admin/admin-options.php:2388
+msgid "Show a message on the same page."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:127
+msgid ""
+"Show a table with a monthly summary of orders for the coupon, with total "
+"sales, commission, and more."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:170
+msgid ""
+"Show an \"export to excel\" button for the \"monthly summary\" and \"recent "
+"orders\" tables."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:146
+msgid "Show coupons where sales"
+msgstr ""
+
+#: inc/admin/admin-options.php:727
+msgid "Show full coupon page info automatically, if there is only one coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:858
+msgid "Show list of products for orders."
+msgstr ""
+
+#: inc/admin/admin-options.php:878
+msgid "Show list of products in a \"MORE\" dropdown instead of in a column."
+msgstr ""
+
+#: inc/admin/admin-options.php:952
+msgid "Show logout link on affiliate dashboard (top right)."
+msgstr ""
+
+#: inc/admin/admin-options.php:838
+msgid "Show order \"city\" in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:833
+msgid "Show order \"country\" in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:828
+msgid "Show order \"status\" in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:822
+msgid "Show order ID in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:843
+msgid "Show order user \"first name\" in orders list."
+msgstr ""
+
+#: inc/admin/admin-options.php:975
+msgid "Show refresh data button."
+msgstr ""
+
+#: inc/admin/admin-options.php:2221
+msgid ""
+"Show registration form on affiliate page for logged in users - if they are "
+"not assigned to any coupons."
+msgstr ""
+
+#: inc/admin/admin-options.php:2213
+msgid "Show registration form on affiliate page for logged out users."
+msgstr ""
+
+#: inc/admin/admin-options.php:883
+msgid "Show shipping costs."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:155
+msgid ""
+"Show some nice line graphs on the statistics tab of the affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:908
+msgid "Show tax in orders and commission calculations."
+msgstr ""
+
+#: inc/admin/admin-options.php:3017
+msgid "Show the \"Recent Orders\" as a table, instead of a list (recommended)."
+msgstr ""
+
+#: inc/admin/admin-options.php:932
+msgid "Show the \"Settings\" tab to the affiliate users on coupon page."
+msgstr ""
+
+#: inc/admin/admin-options.php:1142
+msgid "Show the combined totals for all orders within the selected date range."
+msgstr ""
+
+#: inc/admin/admin-options.php:853
+msgid "Show total discounts."
+msgstr ""
+
+#: inc/admin/admin-options.php:848
+msgid "Show total order amount."
+msgstr ""
+
+#: inc/admin/admin-options.php:705
+msgid ""
+"Show WooCommerce login form on affiliate dashboard page when users are "
+"logged out."
+msgstr ""
+
+#: inc/admin/admin-options.php:3324
+msgid ""
+"Show/enable custom translation settings (discontinued - not recommended)."
+msgstr ""
+
+#: inc/admin/admin-translations.php:49
+msgid "Show/enable custom translation settings."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "Showing coupons where sales have"
+msgstr ""
+
+#: inc/admin/admin-options.php:2467
+msgid "Site Key"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:225
+msgid "Social Sharing (Referral URL)"
+msgstr ""
+
+#: inc/admin/admin-options.php:2919
+msgid "Social Sharing Buttons"
+msgstr ""
+
+#: inc/admin/admin-translations.php:143
+#: inc/functions/functions-translations.php:215
+msgid "Sorry, this coupon is not assigned to you."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-settings.php:42
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:148
+msgid ""
+"Sorry, this is not your coupon. Only the user assigned to this coupon can "
+"update the payment details for this coupon."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:297
+msgid "Sorry, this statement is not linked to your account."
+msgstr ""
+
+#: inc/functions/functions-coupon-apply.php:21
+msgid "Sorry, you can't use your own affiliate coupon code."
+msgstr ""
+
+#: inc/functions/functions-user-coupons.php:619
+msgid "Sorry, you don't currently have any active affiliate coupons."
+msgstr ""
+
+#: inc/admin/admin-translations.php:147
+#: inc/functions/functions-translations.php:225
+msgid "Start"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:54
+msgid "Start your FREE 7 Day Trial"
+msgstr ""
+
+#: inc/admin/admin-options.php:1885 inc/admin/admin-options.php:1891
+#: inc/admin/admin-options.php:1897
+msgid "Statement"
+msgstr ""
+
+#: inc/admin/admin-options.php:1871
+msgid "Statement Footer Image (Logo/Signature)"
+msgstr ""
+
+#: inc/admin/admin-options.php:1903
+msgid "Statement Footer Text"
+msgstr ""
+
+#: inc/admin/admin-options.php:1836
+msgid "Statement Header Image (Logo)"
+msgstr ""
+
+#: inc/admin/admin-translations.php:79
+#: inc/functions/functions-translations.php:75
+msgid "Statistics"
+msgstr ""
+
+#: inc/admin/admin-options.php:3081
+msgid "Stats Icons"
+msgstr ""
+
+#: inc/dashboard/tab-latest-orders.php:124
+#: inc/dashboard/tab-latest-orders.php:186 inc/admin/admin-translations.php:200
+#: inc/functions/functions-translations.php:299
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:167
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:161
+#: premium-files/pro-addons/payouts/statements/template.php:273
+msgid "Status"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:89
+msgid "Statuses"
+msgstr ""
+
+#: inc/admin/admin-options.php:2811
+msgid "Store cookie for how many days"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:405
+msgid "Submit Application"
+msgstr ""
+
+#: inc/functions/functions-subscriptions.php:221
+msgid "Subscription Renewal Order"
+msgstr ""
+
+#: inc/admin/admin-options.php:295
+msgid "Subscription Renewal Settings"
+msgstr ""
+
+#: inc/admin/admin-options.php:589
+msgid "Subscriptions"
+msgstr ""
+
+#: inc/admin/admin-translations.php:127
+#: inc/functions/functions-translations.php:348
+#: premium-files/pro-addons/payouts/statements/template.php:251
+msgid "Subtotal"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:233
+msgid "Success! Redirecting"
+msgstr ""
+
+#: inc/admin/admin-options.php:3380
+msgid "Support & Suggestions"
+msgstr ""
+
+#: inc/admin/admin-options.php:1310 inc/admin/admin-options.php:1339
+#: inc/admin/admin-options.php:1373 inc/admin/admin-options.php:1409
+#: inc/admin/admin-options.php:1440 inc/admin/admin-options.php:1472
+#: inc/admin/admin-options.php:1502
+msgid "Supported placeholders"
+msgstr ""
+
+#: inc/admin/admin-options.php:3048
+msgid "Table Header & Footer"
+msgstr ""
+
+#: inc/admin/admin-options.php:621 inc/admin/admin-options.php:3026
+msgid "Tabs"
+msgstr ""
+
+#: inc/admin/admin-options.php:3037
+msgid "Tabs Hover"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:235
+#: premium-files/pro-addons/payouts/statements/template.php:256
+msgid "Tax"
+msgstr ""
+
+#: inc/admin/admin-options.php:1768
+msgid "Tax Number"
+msgstr ""
+
+#: inc/admin/admin-options.php:1797
+msgid "Tax Rate"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:89
+msgid "Tax/VAT Number"
+msgstr ""
+
+#: inc/admin/admin-options.php:2155
+msgid "Template Coupon (Important)"
+msgstr ""
+
+#: inc/admin/admin-options.php:2194
+msgid "Template coupon code for new affiliate coupon generation"
+msgstr ""
+
+#: inc/admin/admin-options.php:2373
+msgid "Terms and Conditions Message"
+msgstr ""
+
+#: inc/admin/admin-options.php:2357
+msgid "Terms and Conditions Notice"
+msgstr ""
+
+#: inc/admin/admin-options.php:1885 inc/admin/admin-options.php:1891
+#: inc/admin/admin-options.php:1897 inc/admin/admin-options.php:3032
+#: inc/admin/admin-options.php:3043 inc/admin/admin-options.php:3054
+#: inc/admin/admin-options.php:3065 inc/admin/admin-options.php:3076
+msgid "Text"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "than"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:261
+#, php-format
+msgid ""
+"The \"%s\" coupon already exists. Please try again with a different coupon "
+"code."
+msgstr ""
+
+#: inc/admin/admin-options.php:1710
+msgid ""
+"The affiliate can then download these statements on the affiliate dashboard, "
+"and you can also download them in the admin payouts section."
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:91
+msgid ""
+"The below section includes a list of most of the modules and features "
+"included in the Pro plan. However other smaller features and customisations "
+"can be found throughout the settings page."
+msgstr ""
+
+#: inc/admin/admin-options.php:1594
+msgid ""
+"The number of days after an order is created, that the commission earned is "
+"added to the users account as \"unpaid commission\"."
+msgstr ""
+
+#: inc/admin/admin-options.php:2160
+msgid ""
+"The only fields that will be modified are the \"Coupon Code\", \"Affiliate "
+"User\", and \"Unpaid Commission\". All other settings are copied over."
+msgstr ""
+
+#: inc/admin/admin-options.php:1618
+msgid ""
+"The order status required for \"unpaid commission\" to be granted. Default "
+"\"completed\" for most sites. This should be the final status for your "
+"orders, once it has been paid and delivered."
+msgstr ""
+
+#: inc/admin/admin-page.php:293
+msgid ""
+"The referral URL can be found on the affiliate dashboard page. 1 click is "
+"tracked per visitor (using cookies)."
+msgstr ""
+
+#: inc/admin/admin-options.php:933
+msgid ""
+"The settings page will allow affiliates to manage email notifications, and "
+"add extra email addresses to recieve notification emails (if also enabled in "
+"the \"Notifications (Pro)\" tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:1798
+msgid "The tax rate that will be added to the payment statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:1226
+msgid ""
+"Then, only users that are assigned to a coupon will be able to see their "
+"dashboard (for that coupon) on this page."
+msgstr ""
+
+#: inc/admin/admin-options.php:2159
+msgid ""
+"Then, whenever you accept an affiliate application, a new coupon code will "
+"be created for with the same settings as the template coupon for the "
+"affiliate."
+msgstr ""
+
+#: inc/functions/functions-url-clicks.php:219
+msgid "There have been no clicks for this campaign yet."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/functions-statements.php:133
+msgid "These details will be shown on your PDF statements for payouts."
+msgstr ""
+
+#: inc/admin/admin-options.php:3124
+msgid ""
+"These options will improve loading speed of your affiliate dashboard for "
+"large coupons with lots of orders (since it wont need to calculate every "
+"time)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2688
+msgid "These values be overridden on a per coupon and/or per product basis."
+msgstr ""
+
+#: inc/admin/admin-options.php:2141
+msgid ""
+"They can enter their account details, preferred coupon code, then submit the "
+"application."
+msgstr ""
+
+#: inc/admin/admin-options.php:998
+msgid ""
+"This excludes the plugin settings which are available to those with the "
+"\"manage_options\" permission."
+msgstr ""
+
+#: inc/admin/admin-options.php:2812
+msgid ""
+"This is how many days after someone clicks on a referral link, that the "
+"cookie will be stored to automatically apply the coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:1690
+msgid ""
+"This is limited to PDF files only, and maximum size of 200KB. These invoices "
+"will be uploaded to a \"coupon-affiliate-invoices\" folder in your uploads "
+"directory."
+msgstr ""
+
+#: inc/admin/admin-options.php:1877
+msgid ""
+"This is shown at the bottom of the PDF statements, just before the Footer "
+"Text. Recommended size is no larger than 340 x 70"
+msgstr ""
+
+#: inc/admin/admin-options.php:1842
+msgid ""
+"This is shown at the very top of the PDF statements. Recommended size is 340 "
+"x 70"
+msgstr ""
+
+#: inc/admin/admin-options.php:2076
+msgid ""
+"This is the base currency for your store, in which totals/commission will be "
+"converted to. You can change this in the WooCommerce settings."
+msgstr ""
+
+#: inc/admin/admin-options.php:1262
+msgid ""
+"This is the email address that will recieve admin notifications such as new "
+"affiliate applications, and payout notifications."
+msgstr ""
+
+#: inc/admin/admin-options.php:1635
+msgid ""
+"This is the label for the field the affiliate user will see to enter their "
+"payment details."
+msgstr ""
+
+#: inc/admin/admin-options.php:2657
+msgid ""
+"This is the limit on how many renewal orders will be rewarded to the "
+"affiliate after the initial signup. This does not include the initial order. "
+"Set to 0 for unlimited renewals."
+msgstr ""
+
+#: inc/admin/admin-options.php:2424
+msgid ""
+"This is the message shown on the page as soon as the user submits the "
+"application form. The {couponcode} placeholder will be replaced with their "
+"chosen coupon code."
+msgstr ""
+
+#: inc/admin/admin-options.php:2911
+msgid "This is the slug for the shortlinks, for example:"
+msgstr ""
+
+#: inc/admin/admin-options.php:996
+msgid ""
+"This is the user permission required to have full access for this plugin."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:250
+msgid ""
+"This may take a little while (usually 5-20 seconds). It will take longer if "
+"you select a large date range, or have lots of orders and coupons."
+msgstr ""
+
+#: inc/admin/admin-options.php:3279
+msgid ""
+"This means that you will need to manually edit existing users to the "
+"\"coupon affiliate\", or have them automatically assign to this role when "
+"filling out the registration form (enable this in \"registration settings\")."
+msgstr ""
+
+#: inc/admin/admin-options.php:1078 inc/admin/admin-translations.php:93
+#: inc/functions/functions-translations.php:105
+msgid "This Month"
+msgstr ""
+
+#: inc/admin/admin-options.php:1158
+msgid ""
+"This option will allow you to enable \"lifetime commission\" either globally,"
+" or on a per-coupon basis."
+msgstr ""
+
+#: inc/admin/admin-options.php:1193
+msgid ""
+"This option will enable the \"affiliate landing page\" metabox on pages, for "
+"you to assign a page as a landing page for an affiliate coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:2742
+msgid ""
+"This option will set one as priority, so if both are set, the commission "
+"settings for your chosen priority will be used."
+msgstr ""
+
+#: inc/admin/admin-options.php:3116
+msgid ""
+"This plugin is frequently updated and maintained. If you notice any bugs, "
+"issues, or conflicts with other themes/plugins, please get in touch and it "
+"will be looked into."
+msgstr ""
+
+#: inc/admin/admin-options.php:2741
+msgid ""
+"This setting is required in case you have set custom commission amounts on "
+"both a coupon level, and product level."
+msgstr ""
+
+#: inc/admin/admin-options.php:790
+msgid ""
+"This will affect the coupon usage stats, orders list, commission, and "
+"monthly summary."
+msgstr ""
+
+#: inc/admin/admin-options.php:706
+msgid ""
+"This will allow affiliate users to login to the dashboard if they visit the "
+"base dashboard URL."
+msgstr ""
+
+#: inc/admin/admin-options.php:2565
+msgid ""
+"This will allow the affiliate user to replace the default link/URL in the "
+"\"embed code\" for each creative with their own URL."
+msgstr ""
+
+#: inc/admin/admin-options.php:2570
+msgid ""
+"This will allow the affiliate user to select a campaign, which will update "
+"the URL in the \"embed code\" for each campaign to include the campaign "
+"tracking parameter."
+msgstr ""
+
+#: inc/admin/admin-options.php:714 inc/admin/admin-page.php:264
+msgid ""
+"This will also make the affiliates coupon page private, and therefore only "
+"visible to that user (and admins), even via the unique link."
+msgstr ""
+
+#: inc/admin/admin-options.php:2773
+msgid ""
+"This will automatically apply the coupon every time at checkout for that "
+"visitor, until the cookie expires."
+msgstr ""
+
+#: inc/admin/admin-options.php:808
+msgid ""
+"This will determine how the orders are sorted on the affiliate dashboard, "
+"either by the day they were paid for, or the day it was set to completed."
+msgstr ""
+
+#: inc/admin/admin-options.php:3513
+msgid ""
+"This will disable automatic ajax saving, and instead will enable the \"Save "
+"Settings\" button, and you will save all settings at once."
+msgstr ""
+
+#: inc/admin/admin-options.php:2513
+msgid ""
+"This will enable \"Creatives\" in the admin menu, where you can upload your "
+"own banners (creatives) for affiliates to use."
+msgstr ""
+
+#: inc/admin/admin-options.php:1557
+msgid ""
+"This will enable payouts features, and keep track of \"unpaid commission\" "
+"for each coupon, whenever new orders are created using that coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:2150
+msgid ""
+"This will enable the coupon affiliate registration features on your website."
+msgstr ""
+
+#: inc/admin/admin-options.php:3212
+msgid ""
+"This will further increase initial loading speed. It will only start loading "
+"content for each tab when the tab is clicked, showing the \"loading...\" "
+"animation whilst it loads."
+msgstr ""
+
+#: inc/admin/admin-options.php:970
+msgid ""
+"This will further increase initial loading speed/performance. It will only "
+"start loading content for each tab when the tab is clicked, showing the "
+"\"loading...\" animation whilst it loads."
+msgstr ""
+
+#: inc/admin/admin-options.php:3236
+msgid ""
+"This will make it so when each tab is clicked, it reloads the page, but it "
+"only loads the content for the selected tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:960 inc/admin/admin-options.php:3190
+msgid ""
+"This will make the initial page loading much faster for larger coupons, and "
+"show a \"loading\" animation in these sections whilst it loads content "
+"(usually takes no longer than a few seconds)."
+msgstr ""
+
+#: inc/admin/admin-options.php:3347
+msgid ""
+"This will not delete your orders or WooCommerce data. If you want to be safe,"
+" be sure to make a backup of your website beforehand in-case you want to "
+"restore this data."
+msgstr ""
+
+#: inc/admin/admin-options.php:2715
+msgid ""
+"This will only show if you have not set any custom commission amounts on the "
+"coupon level."
+msgstr ""
+
+#: inc/admin/admin-options.php:1203
+msgid ""
+"This will show a \"Landing Pages\" section on the affiliate dashboard in the "
+"\"Referral URL\" tab, with all the assigned landing pages for the affiliate "
+"coupon."
+msgstr ""
+
+#: inc/admin/admin-options.php:1577
+msgid ""
+"This will show a \"Payouts\" tab on the coupon usage/info page, so the "
+"affiliate can view their unpaid commission, and request payouts."
+msgstr ""
+
+#: inc/admin/admin-options.php:2833
+msgid ""
+"This will show a table with a log of the latest referral URL clicks/visits "
+"for the affiliate coupons referral URL (or selected campaign)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2214
+msgid ""
+"This will show the affiliate application/registration form automatically on "
+"the affiliate page for logged out users (alongside the login form)."
+msgstr ""
+
+#: inc/admin/admin-options.php:942
+msgid ""
+"This will show the WooCommerce \"Account Details\" fields directly in the "
+"\"settings\" tab on the affiliate dashboard, along with a logout link."
+msgstr ""
+
+#: inc/admin/admin-options.php:3258
+msgid ""
+"This will still show the \"Last 30 Days\" and \"Last 7 Days\". It will also "
+"cause the \"usage\" stat to be calculated slightly different."
+msgstr ""
+
+#: inc/admin/admin-options.php:2053
+msgid ""
+"This will then automatically convert all the stats, order totals and "
+"commission on the affiliate dashboard into your base store currency, even if "
+"the order is made in a different currency."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "to"
+msgstr ""
+
+#: inc/admin/admin-options.php:3368
+msgid ""
+"to a frontend page. This is used as the parent page for the dashboard, and "
+"unique coupon URLs."
+msgstr ""
+
+#: inc/admin/admin-page.php:263
+msgid ""
+"To assign users to a specific coupon, and set custom commission amount for a "
+"coupon code, go to the"
+msgstr ""
+
+#: inc/admin/admin-options.php:713
+msgid "To assign users to a specific coupon, go to the"
+msgstr ""
+
+#: inc/admin/admin-options.php:2059
+msgid ""
+"To completely refresh each of your affiliate dashboards stats for past "
+"orders, with the new conversion rates, <a href=\"/wp-admin/admin.php?"
+"page=wcusage_settings&refreshstats=true\">click here</a>. (The first page "
+"load for each dashboard may take slightly longer.)"
+msgstr ""
+
+#: inc/admin/admin-page.php:334
+msgid ""
+"To display a single coupon on a page, use the parameter \"coupon\" for "
+"example:"
+msgstr ""
+
+#: inc/admin/admin-page.php:343
+msgid ""
+"To display the affiliate application form on a custom page, use the "
+"shortcode: "
+msgstr ""
+
+#: inc/admin/admin-page.php:269
+msgid ""
+"To display the affiliate dashboard for the coupon(s) assigned to the logged "
+"in user, use shortcode:"
+msgstr ""
+
+#: inc/admin/admin-page.php:384
+msgid ""
+"To do this go to \"Pro Settings\" and toggle on \"Enable lifetime commission "
+"features.\" option."
+msgstr ""
+
+#: inc/admin/admin-options.php:3326 inc/admin/admin-options.php:3377
+msgid "to fully translate this plugin."
+msgstr ""
+
+#: inc/admin/admin-translations.php:61
+msgid ""
+"to fully translate this plugin. However, if you enable these custom "
+"translations settings, they will cover most words/phrases (but not all) on "
+"the frontend affiliate dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:2144
+msgid ""
+"To get started with affiliate registration, you will need to add the "
+"shortcode [couponaffiliates-register] to a page."
+msgstr ""
+
+#: inc/admin/admin-page.php:362
+msgid ""
+"To get started with creatives, first go to the \"Creatives\" settings to to "
+"enable and customise the settings."
+msgstr ""
+
+#: inc/admin/admin-page.php:304
+msgid ""
+"To get started with Multi-Currency support, simply enable \"multi-currency "
+"settings\" under the \"General\" settings tab. A new tab will the appear "
+"labeled \"currencies\" to customise your currencies and conversion rates."
+msgstr ""
+
+#: inc/admin/admin-page.php:389
+msgid ""
+"To get started, simply enable the \"Affiliate Landing Pages\" option in "
+"\"Pro Settings\" then you will see a new meta box when editing pages, to "
+"assign an affiliate coupon to that page."
+msgstr ""
+
+#: inc/admin/admin-options.php:2296
+msgid ""
+"To manage (and enable) email notifications for affiliate applications, go to "
+"the \"Notifications\" settings tab."
+msgstr ""
+
+#: inc/admin/admin-page.php:350
+msgid "To manually edit/change \"unpaid commission\" for a coupon, go to the"
+msgstr ""
+
+#: inc/admin/admin-options.php:3384
+msgid "to send a support ticket."
+msgstr ""
+
+#: inc/admin/admin-options.php:1293
+msgid "to show a list of the products purchased (and quantities)."
+msgstr ""
+
+#: inc/admin/admin-options.php:1294
+msgid "to show the account username for the application."
+msgstr ""
+
+#: inc/admin/admin-options.php:1295
+msgid "to show the admin URL for the list of affiliate applications."
+msgstr ""
+
+#: inc/admin/admin-options.php:1290
+msgid "to show the coupon code."
+msgstr ""
+
+#: inc/admin/admin-options.php:1296
+msgid ""
+"to show the custom message entered when admins accept/decline affiliate "
+"applications."
+msgstr ""
+
+#: inc/admin/admin-options.php:1292
+msgid "to show the order ID."
+msgstr ""
+
+#: inc/admin/admin-options.php:1291
+msgid "to show the users commission earned on that order."
+msgstr ""
+
+#: inc/admin/admin-options.php:1288
+msgid "to show the users display name."
+msgstr ""
+
+#: inc/admin/admin-options.php:1289
+msgid "to show the users email address."
+msgstr ""
+
+#: inc/admin/admin-page.php:401
+msgid "To view all features available with PRO, visit our website:"
+msgstr ""
+
+#: inc/admin/admin-translations.php:131
+#: inc/functions/functions-translations.php:154
+#: inc/functions/functions-translations.php:360
+#: premium-files/pro-addons/payouts/statements/template.php:237
+#: premium-files/pro-addons/payouts/statements/template.php:261
+msgid "Total"
+msgstr ""
+
+#: inc/admin/admin-translations.php:163
+#: inc/functions/functions-translations.php:195
+msgid "Total Clicks"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:286 inc/admin/admin-translations.php:77
+#: inc/functions/functions-translations.php:70
+msgid "Total Commission"
+msgstr ""
+
+#: inc/functions/functions-urls.php:444
+msgid "Total Conversions"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:294 inc/admin/admin-translations.php:75
+#: inc/functions/functions-translations.php:66
+msgid "Total Discounts"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:278 inc/admin/admin-translations.php:73
+#: inc/functions/functions-translations.php:62
+msgid "Total Sales"
+msgstr ""
+
+#: inc/admin/admin-translations.php:71
+#: inc/functions/functions-translations.php:58
+msgid "Total Usage"
+msgstr ""
+
+#: inc/admin/admin-translations.php:165
+#: inc/functions/functions-translations.php:200
+msgid "Total Uses"
+msgstr ""
+
+#: inc/admin/admin-translations.php:137
+#: inc/functions/functions-translations.php:372
+msgid "Totals"
+msgstr ""
+
+#: inc/admin/admin-options.php:597 inc/admin/admin-options.php:3305
+#: inc/admin/admin-options.php:3375 inc/admin/admin-translations.php:17
+#: inc/functions/functions-translations.php:492
+msgid "Translations"
+msgstr ""
+
+#: inc/admin/admin-options.php:2956
+msgid "Twitter Text"
+msgstr ""
+
+#: inc/admin/admin-translations.php:69
+#: inc/functions/functions-translations.php:54
+msgid "Type"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:80
+msgid "Unlimited date range selection is available with the"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:346
+msgid "Unpaid"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:647
+#: inc/admin-reports/admin-reports.php:711 inc/admin/admin-translations.php:184
+#: inc/functions/functions-translations.php:266
+msgid "Unpaid Commission"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:176
+msgid "Update Status"
+msgstr ""
+
+#: inc/admin/admin-page.php:318 inc/admin/admin-pro-details.php:568
+msgid "UPGRADE"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/payouts-admin.php:43
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:567
+msgid "Upgrade to unlock this module."
+msgstr ""
+
+#: premium-files/dashboard/tab-payout.php:119
+msgid "Upload Invoice"
+msgstr ""
+
+#: inc/admin/admin-options.php:2242
+msgid ""
+"Upon new registration, assign user to custom \"coupon affiliate\" user role "
+"instead of \"subscriber\"."
+msgstr ""
+
+#: inc/admin/admin-options.php:308
+msgid "URL Settings"
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:341
+#: inc/admin-reports/admin-reports.php:642
+#: inc/admin-reports/admin-reports.php:668
+msgid "Usage"
+msgstr ""
+
+#: inc/admin/admin-options.php:2305
+msgid "Use the email address as username."
+msgstr ""
+
+#: inc/admin/admin-options.php:730
+msgid ""
+"Useful if you simply want a generic \"affiliate\" page to direct affiliates "
+"to, instead of a unique link for each one."
+msgstr ""
+
+#: inc/admin/admin-options.php:1595
+msgid ""
+"Useful if you want to prevent commission being paid out early for orders "
+"that may be refunded etc. Requires cron jobs to be enabled on your site."
+msgstr ""
+
+#: premium-files/pro-addons/payouts/class-payouts-list-table.php:168
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:94
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:109
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:114
+msgid "User"
+msgstr ""
+
+#: premium-files/pro-addons/payouts/statements/template.php:167
+msgid "User ID"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:302
+#: premium-files/pro-addons/registration/registration-form.php:309
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:156
+msgid "Username"
+msgstr ""
+
+#: inc/admin/admin-pro-details.php:112
+msgid ""
+"Users can register as an affiliate and pick their coupon code. Admins can "
+"approve/decline applications."
+msgstr ""
+
+#: inc/admin/admin-orders-box.php:49 inc/admin/class-clicks-list-table.php:40
+#: inc/admin/admin-orders-list.php:144
+msgid "View Affiliate Dashboard"
+msgstr ""
+
+#: inc/functions/functions-shortcode.php:1139
+msgid "View All Affiliate Dashboard URLs"
+msgstr ""
+
+#: inc/admin/admin-page.php:286
+msgid "View Coupons List & Unique Links"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:48
+msgid "View Landing Page"
+msgstr ""
+
+#: inc/admin/admin-page.php:299 inc/admin/admin-page.php:327
+msgid "View Reports"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:112
+msgid "Visit Date"
+msgstr ""
+
+#: premium-files/pro-addons/registration/class-registrations-list-table.php:160
+msgid "Website"
+msgstr ""
+
+#: inc/admin/admin-options.php:2312
+msgid "Website Field"
+msgstr ""
+
+#: inc/admin/admin-options.php:2322
+msgid "Website field label"
+msgstr ""
+
+#: inc/admin/admin-options.php:2386
+msgid "What should happen after form submission?"
+msgstr ""
+
+#: inc/admin/admin-options.php:1062
+msgid ""
+"What toggles should be shown for statistics and line graphs on the affiliate "
+"dashboard?"
+msgstr ""
+
+#: inc/admin/admin-options.php:1544
+msgid ""
+"When an order is completed using a users coupon, the commission will be "
+"added to the affiliate account assigned to that coupon as \"unpaid "
+"commission\"."
+msgstr ""
+
+#: inc/admin/admin-options.php:3278
+msgid ""
+"When assigning users to coupons, if this is enabled, it will only show the "
+"list of users with the custom \"coupon affiliate\" role."
+msgstr ""
+
+#: inc/admin/admin-options.php:720
+msgid ""
+"When disabled, the affiliate user will be prevented from using their own "
+"coupon code (coupons they are assigned to) at cart or checkout."
+msgstr ""
+
+#: inc/admin/admin-options.php:1709
+msgid ""
+"When enabled, a \"statement\" PDF file will be generated automatically "
+"whenever payout requests are made by the affiliate. These statements show "
+"the payout details, status, company information, etc."
+msgstr ""
+
+#: inc/admin/admin-options.php:1726
+msgid ""
+"When enabled, a new \"Payout Statement Details\" section is displayed in the "
+"\"Settings\" tab of the affiliate dashboard, to enter their billing data to "
+"show on statements."
+msgstr ""
+
+#: inc/admin/admin-options.php:1731
+msgid ""
+"When enabled, affiliates can download a statement for both pending and "
+"completed payouts. If disabled, they can only download statements for "
+"completed payouts."
+msgstr ""
+
+#: inc/admin/admin-options.php:921
+msgid ""
+"When enabled, this will also show the adjusted \"total\" and \"subtotal\" "
+"(with deducted percentage) on affiliate dashboard. When disabled, only the "
+"\"commission\" stat will be affected by the adjustment."
+msgstr ""
+
+#: inc/admin/admin-options.php:3293
+msgid ""
+"When someone uses the referral URL, if the code is automatically applied, it "
+"will show this message on all pages."
+msgstr ""
+
+#: inc/admin-reports/admin-reports.php:484
+msgid "where sales are"
+msgstr ""
+
+#: inc/admin/admin-options.php:2735
+msgid "Which custom commission values should be applied as priority?"
+msgstr ""
+
+#: inc/admin/admin-options.php:976
+msgid ""
+"Will add a refresh button. When clicked, it automatically refreshes data "
+"without reloading the page."
+msgstr ""
+
+#: inc/admin/admin-options.php:1641
+msgid ""
+"Will show as the payment \"method\" for new payouts in the affiliates "
+"dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:1151
+msgid ""
+"With lifetime commission enabled, once someone uses the affiliates coupon "
+"code, that customer will be linked to the affiliate forever, and ALL future "
+"purchases from that customer and will count as a referral, even if they dont "
+"re-use the coupon code."
+msgstr ""
+
+#: inc/admin/admin-options.php:728
+msgid ""
+"With the \"[couponaffiliates]\" shortcode, when a user visits this page "
+"(without the unique URL ID), enable to show full affiliate dashboard "
+"automatically if the affiliate user is only assigned to one coupon."
+msgstr ""
+
+#: inc/admin/admin-page.php:299
+msgid ""
+"With the free version get access to admin reports for the past 4 weeks. "
+"Reports allow you to see the overall coupon usage and sales for all coupons, "
+"and each individual coupon, on a single page"
+msgstr ""
+
+#: inc/admin/admin-page.php:327
+msgid ""
+"With the Pro version get access to unlimited date range on the admin reports,"
+" export to CSV, and access to date comparison features, to compare analytics "
+"between 2 sets of dates"
+msgstr ""
+
+#: inc/admin/admin-page.php:379
+msgid ""
+"With the Pro version, a new row will be shown at the bottom of the \"recent "
+"orders\" and \"monthly summary\" tables, to show the combined totals for all "
+"rows/orders within the date range selected. This can be toggled in the \"Pro "
+"Settings\" tab."
+msgstr ""
+
+#: inc/admin/admin-options.php:2205
+msgid "With this disabled, only logged in users can apply."
+msgstr ""
+
+#: inc/admin/admin-options.php:2228
+msgid ""
+"With this enabled, \"administrator\" users will be able to fill out the "
+"affiliate registration form for new users (custom username/email etc), "
+"whilst logged in."
+msgstr ""
+
+#: inc/admin/admin-options.php:1689
+msgid ""
+"With this enabled, a new \"Upload Invoice\" option will be displayed above "
+"the \"Request Payout\" button on the \"Payouts\" tab. They can click this to "
+"upload their PDF invoice for the payout, then submit their payout request."
+msgstr ""
+
+#: inc/admin/admin-options.php:1653
+msgid ""
+"With this enabled, admin accounts will also be able to view the \"payouts\" "
+"tab when viewing any of the affiliate coupon pages."
+msgstr ""
+
+#: inc/admin/admin-options.php:2234
+msgid ""
+"With this enabled, affiliate registrations will be automatically accepted "
+"(and coupon auto-created instantly), instead of manual approval."
+msgstr ""
+
+#: inc/admin/admin-options.php:2884
+msgid ""
+"With this enabled, affiliate users can click a button to automatically "
+"generate a short URL for their referral link."
+msgstr ""
+
+#: inc/admin/admin-options.php:2863
+msgid ""
+"With this enabled, affiliate users can click a button to generate a QR code "
+"for their referral link."
+msgstr ""
+
+#: inc/admin/admin-options.php:2638
+msgid ""
+"With this enabled, all renewals for subscriptions will also be rewarded "
+"commission (if the affiliate referred the customer) and renewal orders "
+"displayed on the dashboard."
+msgstr ""
+
+#: inc/admin/admin-options.php:2854
+msgid ""
+"With this enabled, in the \"referral URL\" section your affiliates will be "
+"able to create \"campaigns\", to generate custom URLs, track clicks, sales, "
+"conversation rate for specific referral campaigns."
+msgstr ""
+
+#: inc/admin/admin-options.php:2243
+msgid ""
+"With this enabled, instead of using the default WordPress \"subscriber\" "
+"user role, new affiliate users will be assigned to the custom \"coupon "
+"affiliate\" user role (or the custom role defined below) instead."
+msgstr ""
+
+#: inc/admin/admin-options.php:2082
+msgid ""
+"With this enabled, it will permanently save and use the commission rate that "
+"was set at the time the order is created, even if you update the rates below."
+msgstr ""
+
+#: inc/admin/admin-options.php:2204
+msgid ""
+"With this enabled, logged out users can view the registration form (with "
+"some extra fields). When submitted it will create a new account for them, "
+"and submit the affiliate application."
+msgstr ""
+
+#: inc/admin/admin-options.php:1700
+msgid ""
+"With this enabled, the affiliate can only request a payout if they have "
+"attached an invoice (PDF file)."
+msgstr ""
+
+#: inc/admin/admin-options.php:2264
+msgid ""
+"With this enabled, the new user account created will be assigned to the "
+"default \"Subscriber\" role (or the custom role defined below) initially, "
+"and only when their affiliate application is accepted will they be assigned "
+"to the \"coupon affiliate\" user role instead."
+msgstr ""
+
+#: inc/admin/admin-options.php:2285
+msgid ""
+"With this enabled, the pending user role will be removed from the affiliate "
+"when the application is accepted."
+msgstr ""
+
+#: inc/admin/admin-options.php:2306
+msgid ""
+"With this enabled, the username field will be hidden, and the email address "
+"will be used as their username instead."
+msgstr ""
+
+#: inc/admin/admin-options.php:1225
+msgid ""
+"With this option enabled, all unique affiliate dashboard URLs will ALWAYS "
+"only be visible to admins."
+msgstr ""
+
+#: inc/admin/admin-page.php:287
+msgid "WooCommerce coupon list page"
+msgstr ""
+
+#: inc/admin/admin-getting-started.php:56
+#: inc/admin/admin-getting-started.php:79
+msgid "WooCommerce coupons list"
+msgstr ""
+
+#: inc/admin/admin-options.php:2621
+msgid "WooCommerce Subscriptions Settings"
+msgstr ""
+
+#: inc/admin/class-clicks-list-table.php:58
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/admin-translations.php:178
+#: inc/functions/functions-translations.php:250
+msgid ""
+"You already have a pending commission payment. Please wait until this has "
+"been paid before requesting another payout."
+msgstr ""
+
+#: inc/admin/admin-page.php:287
+msgid ""
+"You can also view a full list of the coupons, with the assigned user, "
+"pending payments, and affiliate dashboard links in the"
+msgstr ""
+
+#: inc/admin/admin-page.php:253
+msgid "You can customise the plugin to meet your requirements on "
+msgstr ""
+
+#: inc/admin/admin-options.php:1547
+msgid "You can edit a users commission manually by editting the user."
+msgstr ""
+
+#: inc/admin/admin-page.php:357
+msgid ""
+"You can enable line graphs in the \"Pro Settings\" tab. This will show some "
+"nice line graphs on the statistics tab of the affiliate dashboard, that show "
+"the commission earnings for every day in the past 90 days, 30 days or 7 days."
+msgstr ""
+
+#: inc/admin/admin-page.php:292
+msgid ""
+"You can enable referral URLs, and customise the settings for these, in the "
+"\"Referral URLs\" tab on the settings page."
+msgstr ""
+
+#: inc/admin/admin-options.php:1546
+msgid ""
+"You can set a number of days before affiliates earn their commission. In "
+"this case the orders will be checked daily and commission distributed."
+msgstr ""
+
+#: inc/admin/admin-page.php:282
+msgid ""
+"You can set fixed commission amounts (either per order, or per product), "
+"alongside percentage of the total order. You can set all 3 of these for a "
+"combined total if required."
+msgstr ""
+
+#: inc/admin/admin-page.php:280
+msgid ""
+"You can set your custom commission rates in the \"commision\" tab of the"
+msgstr ""
+
+#: inc/admin/admin-page.php:257
+msgid "You can then share this link with the affiliate (or use yourself)."
+msgstr ""
+
+#: inc/admin/admin-options.php:3371
+msgid "You can view a more detailed setup guide here:"
+msgstr ""
+
+#: inc/functions/functions-translations.php:282
+msgid "You don't have any completed commission payments yet."
+msgstr ""
+
+#: inc/functions/functions-translations.php:278
+msgid "You don't have any pending commission payments."
+msgstr ""
+
+#: inc/admin/admin-translations.php:192
+msgid "You dont have any completed commission payments yet."
+msgstr ""
+
+#: inc/admin/admin-translations.php:190
+msgid "You dont have any pending commission payments."
+msgstr ""
+
+#: inc/admin/admin-options.php:1309
+msgid ""
+"You must assign a coupon to the user in the coupon settings for this to work."
+msgstr ""
+
+#: inc/admin/admin-translations.php:23
+msgid ""
+"You now now easily translate the plugin to other languages, using a plugin "
+"such as"
+msgstr ""
+
+#: inc/admin/admin-options.php:1226
+msgid "You will just need to use the shortcode:"
+msgstr ""
+
+#: inc/admin/admin-page.php:269
+msgid ""
+"You will need to assign users to specific coupons by editing a coupon, then "
+"updating the setting \"Assign to User\"."
+msgstr ""
+
+#: inc/admin/admin-page.php:161
+msgid "Your Account"
+msgstr ""
+
+#: inc/admin/admin-translations.php:141
+#: inc/functions/functions-translations.php:172
+msgid "Your Coupons"
+msgstr ""
+
+#: premium-files/pro-addons/registration/registration-form.php:348
+msgid "Your Website"
+msgstr ""

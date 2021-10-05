@@ -1,0 +1,26 @@
+2021-09-22T07:46:51+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php 中第 671 行的 Uncaught Error: Call to undefined function array_key_first() in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php:671
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php(618): WP_Popup->which_popup_to_display()
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WP_Popup->post_loop(Object(WP))
+#2 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp.php(763): do_action_ref_array('wp', Array)
+#5 /www/wwwroot/lyukyo.com/wp-includes/functions.php(1291): WP->main('')
+#6 /www/wwwroot/lyukyo.com/wp-blog-header.php(16): wp()
+#7 /www/wwwroot/lyukyo.com/index.php(17): require('/www/wwwroot/ly...')
+#8 {main}
+  thrown
+
+2021-09-22T07:47:05+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php 中第 671 行的 Uncaught Error: Call to undefined function array_key_first() in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php:671
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/plugins/wp-pop-up/classes/class-wp-popup.php(618): WP_Popup->which_popup_to_display()
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WP_Popup->post_loop(Object(WP))
+#2 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp.php(763): do_action_ref_array('wp', Array)
+#5 /www/wwwroot/lyukyo.com/wp-includes/functions.php(1291): WP->main('')
+#6 /www/wwwroot/lyukyo.com/wp-blog-header.php(16): wp()
+#7 /www/wwwroot/lyukyo.com/index.php(17): require('/www/wwwroot/ly...')
+#8 {main}
+  thrown
+

@@ -1,0 +1,390 @@
+2021-09-24T04:18:24+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:53+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:24:54+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:30:50+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:31:20+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:31:21+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+
+2021-09-24T04:31:27+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php 中第 139 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:139
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): WPBottomMenu->wp_bottom_menu('')
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /www/wwwroot/lyukyo.com/wp-includes/blocks/legacy-widget.php(123): wp_footer()
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#6 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /www/wwwroot/lyukyo.com/wp-admin/admin.php(175): do_action('admin_init')
+#9 /www/wwwroot/lyukyo.com/wp-admin/widget
+

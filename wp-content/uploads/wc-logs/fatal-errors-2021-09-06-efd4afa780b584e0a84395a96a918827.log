@@ -1,0 +1,9 @@
+2021-09-06T03:31:28+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/widgets/widget-woo-cart.php 中第 41 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/widgets/widget-woo-cart.php:41
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/class-wp-widget.php(393): PW_Woo_Cart->widget(Array, Array)
+#1 /www/wwwroot/lyukyo.com/wp-includes/widgets.php(1977): WP_Widget->display_callback(Array, Array)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php(630): wp_render_widget('pw_woo_cart-1', 'header-widgets')
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php(122): WP_REST_Widgets_Controller->prepare_item_for_response(Array, Object(WP_REST_Request))
+#4 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WP_REST_Widgets_Controller->get_items(Object(WP_REST_Request))
+#5 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widgets', A
+

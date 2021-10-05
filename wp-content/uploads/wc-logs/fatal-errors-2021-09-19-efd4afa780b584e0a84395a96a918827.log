@@ -1,0 +1,10 @@
+2021-09-19T13:26:02+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/abstract-xh-easypay-wc-payment-gateway.php 中第 60 行的 Uncaught Exception: invalid httpstatus:409 ,response:{"errors":[{"id":"4090001","message":"request_id 已存在"}]},detail_error: in /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/abstract-xh-easypay-wc-payment-gateway.php:60
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/class-xh-easypay-wc-payment-gateway.php(114): Abstract_XH_Easypay_Payment_Gateway->generate_easypay_order(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): XHEASYPAY->woocommerce_receipt(1911)
+#2 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/plugins/woocommerce/templates/checkout/order-receipt.php(44): do_action('woocommerce_rec...', 1911)
+#5 /www/wwwroot/lyukyo.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/www/wwwroot/ly...')
+#6 /w
+

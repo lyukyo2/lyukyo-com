@@ -1,0 +1,55 @@
+2021-09-11T07:25:07+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php 中第 104 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php:104
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/template-parts/header/mobile.php(32): WoonderShopHelpers::woocommerce_cart_number_of_products_fragments()
+#1 /www/wwwroot/lyukyo.com/wp-includes/template.php(772): require('/www/wwwroot/ly...')
+#2 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', false, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/header-jungle.php(30): get_template_part('template-parts/...', 'jungle')
+#5 /www/wwwroot/lyukyo.com/wp-includes/template.php(770): require_once('/www/wwwroot/ly...')
+#6 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', true, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/general-temp
+
+2021-09-11T07:45:02+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php 中第 104 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php:104
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/template-parts/header/mobile.php(32): WoonderShopHelpers::woocommerce_cart_number_of_products_fragments()
+#1 /www/wwwroot/lyukyo.com/wp-includes/template.php(772): require('/www/wwwroot/ly...')
+#2 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', false, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/header-jungle.php(30): get_template_part('template-parts/...', 'jungle')
+#5 /www/wwwroot/lyukyo.com/wp-includes/template.php(770): require_once('/www/wwwroot/ly...')
+#6 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', true, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/general-temp
+
+2021-09-11T07:45:03+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php 中第 104 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php:104
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/template-parts/header/mobile.php(32): WoonderShopHelpers::woocommerce_cart_number_of_products_fragments()
+#1 /www/wwwroot/lyukyo.com/wp-includes/template.php(772): require('/www/wwwroot/ly...')
+#2 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', false, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/header-jungle.php(30): get_template_part('template-parts/...', 'jungle')
+#5 /www/wwwroot/lyukyo.com/wp-includes/template.php(770): require_once('/www/wwwroot/ly...')
+#6 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', true, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/general-temp
+
+2021-09-11T10:03:44+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php 中第 104 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php:104
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/template-parts/header/mobile.php(32): WoonderShopHelpers::woocommerce_cart_number_of_products_fragments()
+#1 /www/wwwroot/lyukyo.com/wp-includes/template.php(772): require('/www/wwwroot/ly...')
+#2 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', false, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/header-jungle.php(30): get_template_part('template-parts/...', 'jungle')
+#5 /www/wwwroot/lyukyo.com/wp-includes/template.php(770): require_once('/www/wwwroot/ly...')
+#6 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', true, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/general-temp
+
+2021-09-11T20:03:19+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php 中第 104 行的 Uncaught Error: Call to a member function get_cart_contents_count() on null in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/inc/helpers.php:104
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/template-parts/header/mobile.php(32): WoonderShopHelpers::woocommerce_cart_number_of_products_fragments()
+#1 /www/wwwroot/lyukyo.com/wp-includes/template.php(772): require('/www/wwwroot/ly...')
+#2 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', false, Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt/header-jungle.php(30): get_template_part('template-parts/...', 'jungle')
+#5 /www/wwwroot/lyukyo.com/wp-includes/template.php(770): require_once('/www/wwwroot/ly...')
+#6 /www/wwwroot/lyukyo.com/wp-includes/template.php(716): load_template('/www/wwwroot/ly...', true, Array)
+#7 /www/wwwroot/lyukyo.com/wp-includes/general-temp
+

@@ -1,0 +1,44 @@
+2021-09-21T00:38:01+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 54 行的 Uncaught Error: Call to a member function get_data() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:54
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/wwwroot/l
+
+2021-09-21T00:38:12+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 54 行的 Uncaught Error: Call to a member function get_data() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:54
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/wwwroot/l
+
+2021-09-21T00:38:43+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 54 行的 Uncaught Error: Call to a member function get_data() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:54
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/wwwroot/l
+
+2021-09-21T00:39:43+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 54 行的 Uncaught Error: Call to a member function get_data() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:54
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/wwwroot/l
+

@@ -1,0 +1,131 @@
+2021-09-20T04:15:09+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/abstract-xh-easypay-wc-payment-gateway.php 中第 60 行的 Uncaught Exception: invalid httpstatus:409 ,response:{"errors":[{"id":"4090001","message":"request_id 已存在"}]},detail_error: in /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/abstract-xh-easypay-wc-payment-gateway.php:60
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-content/plugins/xh-easypay-for-wc/class-xh-easypay-wc-payment-gateway.php(112): Abstract_XH_Easypay_Payment_Gateway->generate_easypay_order(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): XHEASYPAY->woocommerce_receipt(1917)
+#2 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#4 /www/wwwroot/lyukyo.com/wp-content/plugins/woocommerce/templates/checkout/order-receipt.php(44): do_action('woocommerce_rec...', 1917)
+#5 /www/wwwroot/lyukyo.com/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/www/wwwroot/ly...')
+#6 /w
+
+2021-09-20T05:17:06+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:17:16+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:17:47+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:18:47+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:20:48+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:23:48+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:27:49+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:32:49+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:38:50+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:45:50+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
+2021-09-20T05:53:51+00:00 CRITICAL /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php 中第 45 行的 Uncaught Error: Call to a member function payment_complete() on boolean in /www/wwwroot/lyukyo.com/wp-content/themes/woondershop-pt-child/functions.php:45
+Stack trace:
+#0 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(1140): WC_REST_payment_notify_url_Controller->put_orders_status(Object(WP_REST_Request))
+#1 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/payment_...', Array, NULL)
+#2 /www/wwwroot/lyukyo.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /www/wwwroot/lyukyo.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc/v3/payment_...')
+#4 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /www/wwwroot/lyukyo.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /www/wwwroot/lyukyo.com/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /www/w
+
